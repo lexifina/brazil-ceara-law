@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR N° 80, DE 06.08.09 (D.O. DE 13.08.09)
+ALTERA DISPOSIÇÕES DA LEI COMPLEMENTAR Nº 72, DE 12 DE DEZEMBRO DE 2008, E DÁ OUTRAS PROVIDÊNCIAS.
+O GOVERNADOR DO ESTADO DO CEARÁ
+Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei:
