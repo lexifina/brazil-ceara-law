@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR Nº244, 31 de maio de 2021.
+ALTERA A LEI COMPLEMENTAR N.° 14, DE 15 DE SETEMBRO DE 1999, E REVOGA A LEI COMPLEMENTAR N.º 241, DE 3 DE MAIO DE 2021.
+O GOVERNADOR DO ESTADO DO CEARÁ
+Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei:
