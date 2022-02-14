@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR Nº277, de 14 de fevereiro de 2022
+ALTERA A LEI COMPLEMENTAR Nº 58, DE 31 DE MARÇO DE 2006, QUE DISPÕE SOBRE A LEI ORGÂNICA DA PROCURADORIA GERAL DO ESTADO.
+O GOVERNADOR DO ESTADO DO CEARÁ
+Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei:
