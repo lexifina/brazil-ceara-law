@@ -1,0 +1,16 @@
+# Lei Complementar nº 47, de 16.07.2004 (Institui o Fundo de Defesa Social do Estado do Ceará - FDS, cria o Conselho de Defesa Social do Estado do Ceará, e dá outras providências.)
+
+LC 47/2004 · 1 versions, from 2026-03-09 (latest in force: 2026-03-09) · <https://www2.al.ce.gov.br/legislativo/ementario/lc47.htm>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Título | [000-titulo.md](000-titulo.md) | 0 |  |
+| Art. 1º | [art-0001.md](art-0001.md) | 0 |  |
+| Art. 2º | [art-0002.md](art-0002.md) | 0 |  |
+| Art. 3º | [art-0003.md](art-0003.md) | 0 |  |
+| Art. 4º | [art-0004.md](art-0004.md) | 0 |  |
+| Art. 5º | [art-0005.md](art-0005.md) | 0 |  |
+| Art. 6º | [art-0006.md](art-0006.md) | 0 |  |
+| Art. 7° | [art-0007.md](art-0007.md) | 0 |  |
+| Art. 8° | [art-0008.md](art-0008.md) | 0 |  |
+| Art. 9° | [art-0009.md](art-0009.md) | 0 |  |

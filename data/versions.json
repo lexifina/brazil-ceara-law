@@ -1,0 +1,4835 @@
+{
+ "country": "BR-CE",
+ "acts": [
+  {
+   "slug": "lc-1995-004",
+   "short": "LC 4/1995",
+   "title": "Lei Complementar nº 4, de 04.10.1995 (Regulamenta o disposto no Art. 203, § 2º, III, da Constituição Estadual.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc04.htm",
+   "versions": [
+    {
+     "from": "1995-10-30",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc04.htm",
+     "sha256": "c3a8f7c524d65ae81bdb34249886066d962425f6b9efacfd84d0eccae0f07d64"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1997-006",
+   "short": "LC 6/1997",
+   "title": "Lei Complementar nº 6, de 28.04.1997 (O GOVERNADOR DO ESTADO DO CEARÁ)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc91.htm",
+   "versions": [
+    {
+     "from": "1997-04-28",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc91.htm",
+     "sha256": "9598afb61693326419b56e2b9d44e985c1985b56abc1feac01075b6753d37a87"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1998-008",
+   "short": "LC 8/1998",
+   "title": "Lei Complementar nº 8, de 17.07.1998 (Altera dispositivo da Lei nº 10.675, de 08 de julho de 1982, - Código do Ministério Público do Estado do Ceará.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc08.htm",
+   "versions": [
+    {
+     "from": "1998-07-20",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc08.htm",
+     "sha256": "f7109774a77b5b99f323c449ccd9929a22402c1eab2f73350ba984d824f90988"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1998-009",
+   "short": "LC 9/1998",
+   "title": "Lei Complementar nº 9, de 23.07.1998 (Dispõe sobre o Controle Externo da Atividade Policial pelo Ministério Público do Estado do Ceará.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc09.htm",
+   "versions": [
+    {
+     "from": "1998-08-06",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc09.htm",
+     "sha256": "289a7e6a071c3e4620fb08c4f84020932834562e14d5bdc461282ab657f81b78"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1999-010",
+   "short": "LC 10/1999",
+   "title": "Lei Complementar nº 10, de 17.06.1999 (Revoga os dispositivos legais que indica, e dá outras providências.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc10.htm",
+   "versions": [
+    {
+     "from": "1999-06-18",
+     "units": 2,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc10.htm",
+     "sha256": "68d8530208b9dc6af1ca0a936fcc3696bfe72c1e66b64c23b4a82bfbe3238c8b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1999-011",
+   "short": "LC 11/1999",
+   "title": "Lei Complementar nº 11, de 17.06.1999 (Revoga os dispositivos legais que indica, e dá outras providências.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc11.htm",
+   "versions": [
+    {
+     "from": "1999-06-18",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc11.htm",
+     "sha256": "eeb9572e29903f34158fb5996c3049c44f6f0f23b21b2955aea2d25e5522f7e7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1999-012",
+   "short": "LC 12/1999",
+   "title": "Lei Complementar nº 12, de 23.06.1999",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc12.htm",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 18,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc12.htm",
+     "sha256": "a42f2b2c35d1b79c01a0d44761ea21c3c5eae844c6a3e042e8c15fe283c48f98"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1999-013",
+   "short": "LC 13/1999",
+   "title": "Lei Complementar nº 13, de 20.07.1999 (VETO PARCIAL - MANTIDO EM 02.09.99)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc13.htm",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 31,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc13.htm",
+     "sha256": "47f5c2fd1a275906ff2d53bd7a1cf9408f42a5b8fda065319a2e90e4efac92e8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1999-014",
+   "short": "LC 14/1999",
+   "title": "Lei Complementar nº 14, de 15.09.1999 (Dispõe sobre contratação, por tempo determinado, para atender a necessidade temporária de excepcional interesse público pelas Universidades Estaduais.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc14.htm",
+   "versions": [
+    {
+     "from": "2018-03-15",
+     "units": 9,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc14.htm",
+     "sha256": "a92540792e77b9992b76e0a300bdc48220eba923abec26dbe30c0ae418ba1768"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1999-015",
+   "short": "LC 15/1999",
+   "title": "Lei Complementar nº 15, de 07.12.1999 (Fixa o valor do ponto da Gratificação de Aumento de Produtividade prevista na Lei Complementar nº 2, de 26 de maio de 1994, e dá outras providências.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc15.htm",
+   "versions": [
+    {
+     "from": "1999-12-07",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc15.htm",
+     "sha256": "45db39d54cf0e0016facb44a78cf0c4d99932b0db7ad6be204839dc9daea5688"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1999-017",
+   "short": "LC 17/1999",
+   "title": "Lei Complementar nº 17, de 20.12.1999",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc17.htm",
+   "versions": [
+    {
+     "from": "2000-06-29",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc17.htm",
+     "sha256": "e9d7e014c2e6c1eb85b28728a7cc5f7cbd2175ccbccee908e9c0938db48a0d8f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1999-018",
+   "short": "LC 18/1999",
+   "title": "Lei Complementar nº 18, de 29.12.1999",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc18.htm",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 14,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc18.htm",
+     "sha256": "81b5d41bac891a5d1d578a0ccb984bfa173cca7f326465ef096ba0cd737684b9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1999-019",
+   "short": "LC 19/1999",
+   "title": "Lei Complementar nº 19, de 29.12.1999 (Dá nova redação aos dispositivos da Lei Complementar Nº 13, de 20 de julho de 1999, e adota outras providências.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc19.htm",
+   "versions": [
+    {
+     "from": "1999-12-29",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc19.htm",
+     "sha256": "1d3d630f0d62424af7a38dbf7286933aec658eb115c723fe225e2224e6767367"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2000-021",
+   "short": "LC 21/2000",
+   "title": "Lei Complementar nº 21, de 29.06.2000",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc21.htm",
+   "versions": [
+    {
+     "from": "2016-01-14",
+     "units": 13,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc21.htm",
+     "sha256": "e46e6add9f756d3416dc29ccff3c508571d2d56e8bb596d2a7f9ea67a8139dea"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2000-020",
+   "short": "LC 20/2000",
+   "title": "Lei Complementar nº 20, de 30.06.2000",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc20.htm",
+   "versions": [
+    {
+     "from": "2000-06-30",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc20.htm",
+     "sha256": "e44193da7344a6b5b699a5a4e3aa46f78544216bbb0eaf0810474dfdf662ca56"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2000-022",
+   "short": "LC 22/2000",
+   "title": "Lei Complementar nº 22, de 24.07.2000 (Dispõe sobre a Contratação de Docentes, por tempo determinado, para atender necessidade temporária de excepcional interesse público nas Escolas Estaduais.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc22.htm",
+   "versions": [
+    {
+     "from": "2022-02-21",
+     "units": 12,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc22.htm",
+     "sha256": "7d4956f0f9e1d86b150a1fbd63bbd44fdd16b42ba366af678cfeb7c53c92dca4"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2000-024",
+   "short": "LC 24/2000",
+   "title": "Lei Complementar nº 24, de 23.11.2000",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc24.htm",
+   "versions": [
+    {
+     "from": "2000-11-21",
+     "units": 11,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc24.htm",
+     "sha256": "a57f8a7e7cf38d6fb1ef688af43370b58872ee96a2b21afcc808f521b5bb60c7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2001-025",
+   "short": "LC 25/2001",
+   "title": "Lei Complementar nº 25, de 08.01.2001 (Altera os arts. 65 e 66 da Lei Complementar nº 2, de 24 de maio de 1994, e dá outras providências.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc25.htm",
+   "versions": [
+    {
+     "from": "2001-01-08",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc25.htm",
+     "sha256": "43a784bbf0b14c5ba4765c38e9d81c94f829e3898a4c25f115b4754fb51aa327"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2001-027",
+   "short": "LC 27/2001",
+   "title": "Lei Complementar nº 27, de 17.01.2001 (Altera dispositivos da Lei Complementar nº 6, de 28 de abril de 1997, e dá outras providências.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc27.htm",
+   "versions": [
+    {
+     "from": "2001-01-23",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc27.htm",
+     "sha256": "c7f009abe2db2f4b766875f11af77fe205daeefb0f4ec60091e77fdc7a433350"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2002-028",
+   "short": "LC 28/2002",
+   "title": "Lei Complementar nº 28, de 10.01.2002 (Inclui os §§ 6º e 7º no Art. 16 da Lei Complementar nº 13, de 20 de julho de 1999, e dá outras providências.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc28.htm",
+   "versions": [
+    {
+     "from": "2002-01-16",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc28.htm",
+     "sha256": "90476cb77228524a2a23114d0d81aef63301d3b64c3da7132f53a9e212330930"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2002-030",
+   "short": "LC 30/2002",
+   "title": "Lei Complementar nº 30, de 26.07.2002",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc30.htm",
+   "versions": [
+    {
+     "from": "2023-03-10",
+     "units": 46,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc30.htm",
+     "sha256": "7e5b18388b50dbfb18b07b738872b25cc1e04932b40ffe3d35686a17a76d8d4b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2002-031",
+   "short": "LC 31/2002",
+   "title": "Lei Complementar nº 31, de 06.08.2002 (Autoriza a concessão de pensão provisória às viúvas e demais dependentes de servidores públicos estaduais, contribuintes do SUPSEC e dá outras providências.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc31.htm",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc31.htm",
+     "sha256": "28ce4b1ef837d82c0d1deaa05cdeacb0fad39442a476fbbb9c6e073e2818a126"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2002-032",
+   "short": "LC 32/2002",
+   "title": "Lei Complementar nº 32, de 30.12.2002 (Altera os Arts. 2º, 3º, 5º, 9º, 13, 15, 16, 19 e 24 da Lei Complementar nº 13, de 20 de julho de 1999 e dá outras providências.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc32.htm",
+   "versions": [
+    {
+     "from": "2002-12-31",
+     "units": 12,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc32.htm",
+     "sha256": "e9b43a454bf9a7073088a87647f46b517bf42ef99634d0f7d4f061e13cdda94f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2003-034",
+   "short": "LC 34/2003",
+   "title": "Lei Complementar nº 34, de 21.05.2003 (Dá nova redação a dispositivos da Lei Complementar nº 18, de 29 de dezembro de 1999, e dá outras providências.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc34.htm",
+   "versions": [
+    {
+     "from": "2003-05-23",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc34.htm",
+     "sha256": "24ae9db482e0d594bae350121d0da5e61e37a2a3138ad9bf429ecea2a2465f63"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2003-036",
+   "short": "LC 36/2003",
+   "title": "Lei Complementar nº 36, de 06.08.2003 (Dispõe sobre a criação do Fundo de Desenvolvimento do Esporte e Juventude e dá outras providências.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc36.htm",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc36.htm",
+     "sha256": "d5953620dcc7f4f3210773caf3284d1d358eda2a2ce74ddbfa35a0af8a0fb626"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2003-037",
+   "short": "LC 37/2003",
+   "title": "Lei Complementar nº 37, de 26.11.2003",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc37.htm",
+   "versions": [
+    {
+     "from": "2022-07-12",
+     "units": 21,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc37.htm",
+     "sha256": "14b4a143ed9768ffdd48429b7f223458f271513b2aca6044725644bd3f1f18de"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2004-039",
+   "short": "LC 39/2004",
+   "title": "Lei Complementar nº 39, de 23.01.2004 (Institui o Fundo Estadual de Desenvolvimento Econômico e Social do Estado do Ceará - FUNEDES, e dá outras providências.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc39.htm",
+   "versions": [
+    {
+     "from": "2019-05-06",
+     "units": 11,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc39.htm",
+     "sha256": "0db66c4b3c966c2f391db63710f15d3c2f6f90c2ab3635fc2ba648c07557643e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2004-041",
+   "short": "LC 41/2004",
+   "title": "Lei Complementar nº 41, de 28.01.2004 (Altera Dispositivo da Lei Complementar, N.º 12, de 23 de Junho de 1999, com redação dada pela Lei Complementar N.º 38, de 31 de dezembro de 2003.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc41.htm",
+   "versions": [
+    {
+     "from": "2004-02-04",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc41.htm",
+     "sha256": "513db3e11d8280eec46d811977dc810e3e2cad4e6f79fbbaca197559676e92d0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2004-040",
+   "short": "LC 40/2004",
+   "title": "Lei Complementar nº 40, de 29.01.2004 (Altera os arts. 2.º, 4.º e 5.º da Lei Complementar nº 12, de 23 de junho de 1999, e dá outras providências.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc40.htm",
+   "versions": [
+    {
+     "from": "2004-02-04",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc40.htm",
+     "sha256": "4590b3e07bcba77d49853967e73b509831f1b497394de20cda544a30dfb782f8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2004-042",
+   "short": "LC 42/2004",
+   "title": "Lei Complementar nº 42, de 28.05.2004",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc42.htm",
+   "versions": [
+    {
+     "from": "2004-05-31",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc42.htm",
+     "sha256": "8a0c24526b63cb992c330647e503b09d2d1d92d8ebe43beb872ee7e85f54b607"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2004-043",
+   "short": "LC 43/2004",
+   "title": "Lei Complementar nº 43, de 29.06.2004",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc43.htm",
+   "versions": [
+    {
+     "from": "2004-06-29",
+     "units": 10,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc43.htm",
+     "sha256": "1ebc4d4744be6806f070bfce784501b626dc870b9df677bce5c8ec7a4f281de8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2004-044",
+   "short": "LC 44/2004",
+   "title": "Lei Complementar nº 44, de 30.06.2004",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc44.htm",
+   "versions": [
+    {
+     "from": "2004-06-30",
+     "units": 7,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc44.htm",
+     "sha256": "a85638337cae9d927bd4135977cc3c55a95ec03a8c052b4fa51c2bcd704c512e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2004-046",
+   "short": "LC 46/2004",
+   "title": "Lei Complementar nº 46, de 15.07.2004 (Mens. Nº 6.699/04 - Substitutiva)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc46.htm",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 15,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc46.htm",
+     "sha256": "39b6206739fdaa687f583eb64ebb87182f1b64e1c6b2cca8821bbf66b095466c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2004-047",
+   "short": "LC 47/2004",
+   "title": "Lei Complementar nº 47, de 16.07.2004 (Institui o Fundo de Defesa Social do Estado do Ceará - FDS, cria o Conselho de Defesa Social do Estado do Ceará, e dá outras providências.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc47.htm",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 10,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc47.htm",
+     "sha256": "a498ef81c4ad4f1d1450b1c5d505f85ff4812b6b1b4372e2da929aff07608b29"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2004-049",
+   "short": "LC 49/2004",
+   "title": "Lei Complementar nº 49, de 22.11.2004 (Altera dispositivo da Lei Complementar n.º 45, de 15 de julho de 2004, que dispõe sobre o Fundo Estadual do Transporte - FET, e dá outras providências.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc49.htm",
+   "versions": [
+    {
+     "from": "2004-11-24",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc49.htm",
+     "sha256": "f96624e461c09e629ed33149ec65329823a36d661461fec8a72230cdfae270b3"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2004-050",
+   "short": "LC 50/2004",
+   "title": "Lei Complementar nº 50, de 30.12.2004 (Institui o Fundo de Inovação Tecnológica do Estado do Ceará - FIT, e dá outras providências.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc50.htm",
+   "versions": [
+    {
+     "from": "2022-03-18",
+     "units": 10,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc50.htm",
+     "sha256": "58f541bb60b89f2f571c1e2a7d30817a182e8d51df29d41c3adb8b3dcf4d8366"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2004-051",
+   "short": "LC 51/2004",
+   "title": "Lei Complementar nº 51, de 30.12.2004",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc51.htm",
+   "versions": [
+    {
+     "from": "2004-12-30",
+     "units": 22,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc51.htm",
+     "sha256": "57d92841da4ed65acbdb78c019bff5b5e3d2f9e709aa248029638d81496145e8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2004-052",
+   "short": "LC 52/2004",
+   "title": "Lei Complementar nº 52, de 30.12.2004",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc52.htm",
+   "versions": [
+    {
+     "from": "2019-05-06",
+     "units": 7,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc52.htm",
+     "sha256": "6ba305bc882d44b13eaa8a4c0067e58c8b60a4986ba1f3fc4752d88e14c61c0e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2005-053",
+   "short": "LC 53/2005",
+   "title": "Lei Complementar nº 53, de 10.06.2005",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc53.htm",
+   "versions": [
+    {
+     "from": "2005-06-10",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc53.htm",
+     "sha256": "270724f07b89f87fe390e13f84e5cf3eca6aec6946fa4745d374728faddec1f1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2005-054",
+   "short": "LC 54/2005",
+   "title": "Lei Complementar nº 54, de 25.11.2005 (Dispõe sobre a extinção e criação de Cargo de Direção e Assessoramento Superior da Defensoria Pública-geral do Estado do Ceará e dá outras providências.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc54.htm",
+   "versions": [
+    {
+     "from": "2005-11-30",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc54.htm",
+     "sha256": "0a93c21b53b10ac8b73d22ec6cabe611b7b06ef9a9755128d2d619359f81e300"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2006-055",
+   "short": "LC 55/2006",
+   "title": "Lei Complementar nº 55, de 29.03.2006",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc55.htm",
+   "versions": [
+    {
+     "from": "2006-03-29",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc55.htm",
+     "sha256": "893f55c82a2800fb3df04ea56223299a1851ce855b8c2d9cd6052dba309e1ed3"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2006-056",
+   "short": "LC 56/2006",
+   "title": "Lei Complementar nº 56, de 29.03.2006",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc56.htm",
+   "versions": [
+    {
+     "from": "2006-03-29",
+     "units": 10,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc56.htm",
+     "sha256": "72077c4a23c13ed7d182c30f3cf28f2a6d7c88a41ab8c25cb969cbc59ab1d2da"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2006-058",
+   "short": "LC 58/2006",
+   "title": "Lei Complementar nº 58, de 31.03.2006",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc58.htm",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 212,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc58.htm",
+     "sha256": "f178b055f06c50bf0e6fc1522869e898479677bb633b5d56ddb6b6fd4f481d1d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2006-059",
+   "short": "LC 59/2006",
+   "title": "Lei Complementar nº 59, de 14.07.2006",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc59.htm",
+   "versions": [
+    {
+     "from": "2006-07-14",
+     "units": 8,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc59.htm",
+     "sha256": "33a3d3ab886ccdd90aafab83ee4b798de2cc5542c7de0faf2dc238ebcf928c96"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2006-060",
+   "short": "LC 60/2006",
+   "title": "Lei Complementar nº 60, de 06.12.2006 (Altera dispositivos da Lei Complementar Nº 58, de 31 março de 2006, e dá outras providências.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc60.htm",
+   "versions": [
+    {
+     "from": "2006-12-06",
+     "units": 17,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc60.htm",
+     "sha256": "1f78417a94ed8c3794ff70240d20ad6a213bd5a5d44ae7825626af9993a0c7ee"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2007-061",
+   "short": "LC 61/2007",
+   "title": "Lei Complementar nº 61, de 14.02.2007 (Altera a Lei Complementar n.º 58, de 31 de março de 2006, que dispõe sobre a Lei Orgânica da Procuradoria-Geral do Estado, e dá outras providências.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc61.htm",
+   "versions": [
+    {
+     "from": "2007-02-14",
+     "units": 7,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc61.htm",
+     "sha256": "1e652e7d169f5d7eab0ffade9c9ab63d59d87af3fdb39e3f869ab4bffb69e4fd"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2007-062",
+   "short": "LC 62/2007",
+   "title": "Lei Complementar nº 62, de 14.02.2007 (Altera o art. 11 da Lei Complementar Nº 12, de 23 de junho de 1999, e dá outras providências.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc62.htm",
+   "versions": [
+    {
+     "from": "2007-02-14",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc62.htm",
+     "sha256": "b8572e32af1e2de9d051b2c70e5da35c0e8e52fc63079e3596a2ab7eaaafa6d1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2007-063",
+   "short": "LC 63/2007",
+   "title": "Lei Complementar nº 63, de 04.09.2007 (Altera o parágrafo único do art. 4º da Lei Complementar nº 37, de 26 de novembro de 2003, e dá outras providências.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc63.htm",
+   "versions": [
+    {
+     "from": "2007-09-04",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc63.htm",
+     "sha256": "d26dd565ca845512103ad7b1728d85a3e61642300f79d34e4be6fa160387539f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2007-064",
+   "short": "LC 64/2007",
+   "title": "Lei Complementar nº 64, de 25.10.2007 (Dá nova redação ao art. 60, §§ 1º, 3º e 4º da Lei Complementar nº. 58, de 31 de março de 2006, e dá outras providências.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc64.htm",
+   "versions": [
+    {
+     "from": "2007-10-25",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc64.htm",
+     "sha256": "5ffc9369c652c4b724c87587c984b4b9653e502b9dc8494734928c7ffcf3505c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2008-065",
+   "short": "LC 65/2008",
+   "title": "Lei Complementar nº 65, de 03.01.2008 (Dispõe sobre o Sistema de Licitações do Estado do Ceará, altera dispositivos da Lei Complementar nº 58, de 31 de março de 2006, e dá outras providências.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc65.htm",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 11,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc65.htm",
+     "sha256": "c0a5b128f4b754d1bc565fa56c5b704ed99f89554e4c49a40dbbaca3d1404c83"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2008-066",
+   "short": "LC 66/2008",
+   "title": "Lei Complementar nº 66, de 07.01.2008",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc66.htm",
+   "versions": [
+    {
+     "from": "2025-05-02",
+     "units": 22,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc66.htm",
+     "sha256": "7c9e69f36607551cd9ee48f7a19c44b31ea2a9905b901af407e6731daa75b31f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2008-067",
+   "short": "LC 67/2008",
+   "title": "Lei Complementar nº 67, de 01.07.2008 (Altera o caput do art. 3º, da Lei Complementar nº 30, de 26 de julho de 2002.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc67.htm",
+   "versions": [
+    {
+     "from": "2008-07-01",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc67.htm",
+     "sha256": "6a0bc4f41316b67decdde3b7909d1a099fd7d36cf20465380eb3c8cc910a6842"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2008-069",
+   "short": "LC 69/2008",
+   "title": "Lei Complementar nº 69, de 10.11.2008 (Altera dispositivos da Lei Complementar Estadual nº 58, de 31 de março de 2006, e dá outras providências.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc69.htm",
+   "versions": [
+    {
+     "from": "2008-11-10",
+     "units": 8,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc69.htm",
+     "sha256": "47f04689d2f401d14d71d7ec700670f1119d6b823bb316ea82bea580c5458e87"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2008-070",
+   "short": "LC 70/2008",
+   "title": "Lei Complementar nº 70, de 10.11.2008 (INSTITUI O FUNDO DE MODERNIZAÇÃO E REAPARELHAMENTO DA PROCURADORIA GERAL DO ESTADO DO CEARÁ - FUNPECE, E DÁ OUTRAS PROVIDÊNCIAS.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc70.htm",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 12,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc70.htm",
+     "sha256": "f080f5077b7ca83b9b79dee054b502f66f7f06d1bbabd439e5cdb72d5daaf63d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2008-071",
+   "short": "LC 71/2008",
+   "title": "Lei Complementar nº 71, de 26.11.2008",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc71.htm",
+   "versions": [
+    {
+     "from": "2008-11-26",
+     "units": 14,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc71.htm",
+     "sha256": "0d00a8345eeb2197d316ddf97dc222f7b176977079c395f2c4a76fbc0458b664"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2008-072",
+   "short": "LC 72/2008",
+   "title": "Lei Complementar nº 72, de 12.12.2008 (INSTITUI A LEI ORGÂNICA E O ESTATUTO DO MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ E DÁ OUTRAS PROVIDÊNCIAS.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc72.htm",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 281,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc72.htm",
+     "sha256": "6dffd9953c2ec8a4083c00fefa4af2ec860c28d96df9aa2daae6f073f47c50a9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2008-073",
+   "short": "LC 73/2008",
+   "title": "Lei Complementar nº 73, de 23.12.2008",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc73.htm",
+   "versions": [
+    {
+     "from": "2008-12-23",
+     "units": 15,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc73.htm",
+     "sha256": "1e6a02215c0a546e4c38282a72452fc764bd5ef9f0c2e8e0ac2847be3b841b52"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2008-074",
+   "short": "LC 74/2008",
+   "title": "Lei Complementar nº 74, de 23.12.2008",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc74.htm",
+   "versions": [
+    {
+     "from": "2008-12-23",
+     "units": 15,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc74.htm",
+     "sha256": "49828a2137ea361efac9c809d7a72c5d2bd889f3b5742b15a38921d20b5e1b8b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-075",
+   "short": "LC 75/2009",
+   "title": "Lei Complementar nº 75, de 07.04.2009 (DISPÕE SOBRE A EXTINÇÃO DO FUNDO ESTADUAL DE DESENVOLVIMENTO ECONÔMICO E SOCIAL DO ESTADO DO CEARÁ - FUNEDES.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc75.htm",
+   "versions": [
+    {
+     "from": "2009-04-07",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc75.htm",
+     "sha256": "03a080de4ab89910f5d7308df05cdbd8390795924ccbeea37707f19c8e6a6f17"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-076",
+   "short": "LC 76/2009",
+   "title": "Lei Complementar nº 76, de 21.05.2009",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc76.htm",
+   "versions": [
+    {
+     "from": "2009-05-21",
+     "units": 10,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc76.htm",
+     "sha256": "07a15f3d9c84d4efe9bcb235d3d445210c1f50922440d1f904387ff62a45d7df"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-077",
+   "short": "LC 77/2009",
+   "title": "Lei Complementar nº 77, de 22.06.2009 (ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR Nº 06, DE 28 DE ABRIL DE 1997.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc77.htm",
+   "versions": [
+    {
+     "from": "2009-06-22",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc77.htm",
+     "sha256": "756d66a50c47dd6c4e0b0da94f52851b0e511d85ebad504717b884a32db5319e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-078",
+   "short": "LC 78/2009",
+   "title": "Lei Complementar nº 78, de 26.06.2009",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc78.htm",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 13,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc78.htm",
+     "sha256": "8b60a6b3fc3f3a17b630a64b14d451bb08479e96dc668147042a1e6607c1001d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-079",
+   "short": "LC 79/2009",
+   "title": "Lei Complementar nº 79, de 16.07.2009 (INSTITUI O FUNDO DE DESENVOLVIMENTO DO COMÉRCIO VAREJISTA - FDCV, E DÁ OUTRAS PROVIDÊNCIAS.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc79.htm",
+   "versions": [
+    {
+     "from": "2009-07-16",
+     "units": 13,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc79.htm",
+     "sha256": "e5a295a1699ab98423ec4c98f1d656aeccd544d852d0e043de5b7fedab456cb5"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-080",
+   "short": "LC 80/2009",
+   "title": "Lei Complementar nº 80, de 06.08.2009 (ALTERA DISPOSIÇÕES DA LEI COMPLEMENTAR Nº 72, DE 12 DE DEZEMBRO DE 2008, E DÁ OUTRAS PROVIDÊNCIAS.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc80.htm",
+   "versions": [
+    {
+     "from": "2009-08-06",
+     "units": 8,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc80.htm",
+     "sha256": "085d71a961fe2d8a22e1de4794f9d90ad2f6f9db238fbd40de47963f011834fb"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-081",
+   "short": "LC 81/2009",
+   "title": "Lei Complementar nº 81, de 02.09.2009 (INSTITUI O FUNDO DE INCENTIVO À ENERGIA SOLAR DO ESTADO DO CEARÁ - FIES, E DÁ OUTRAS PROVIDÊNCIAS.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc81.htm",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc81.htm",
+     "sha256": "f922044ad172698b47a2b5d38048c1076ecadcbb2f9651edac298486787928aa"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-083",
+   "short": "LC 83/2009",
+   "title": "Lei Complementar nº 83, de 08.12.2009 (DISPÕE SOBRE A COMISSÃO CENTRAL DE DESAPROPRIAÇÕES E PERÍCIAS, DA ESTRUTURA ORGANIZACIONAL DA PROCURADORIA GERAL DO ESTADO, E DÁ OUTRAS PROVIDẼNCIAS.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc83.htm",
+   "versions": [
+    {
+     "from": "2014-04-07",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc83.htm",
+     "sha256": "a9999a7633fc7ad97881b72035aa00824392b8688bbac839bfc4c0e12fb542cc"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-084",
+   "short": "LC 84/2009",
+   "title": "Lei Complementar nº 84, de 21.12.2009",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc84.htm",
+   "versions": [
+    {
+     "from": "2009-12-28",
+     "units": 20,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc84.htm",
+     "sha256": "1114fa60011446cd8d673dc72e430bcc0ff58ae6373aebb7a5516935c859a057"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-085",
+   "short": "LC 85/2009",
+   "title": "Lei Complementar nº 85, de 21.12.2009 (DISPÕE SOBRE A CRIAÇÃO DO FUNDO DE MANUTENÇÃO DA ESCOLA SUPERIOR DO MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ - ESMP-CE, E DÁ OUTRAS PROVIDÊNCIAS.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc85.htm",
+   "versions": [
+    {
+     "from": "2009-12-21",
+     "units": 13,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc85.htm",
+     "sha256": "c3d66d94bce85a4b395f498ca61013ffe553c6a76df817cbdd4a86aec4d59b9f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2010-086",
+   "short": "LC 86/2010",
+   "title": "Lei Complementar nº 86, de 09.03.2010 (ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR Nº 06, DE 28 DE ABRIL DE 1997.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc86.htm",
+   "versions": [
+    {
+     "from": "2010-03-11",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc86.htm",
+     "sha256": "788c6767ea02a0519020665350d74fb494b2e6d79f79eb5a08086adba65d7f31"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2010-087",
+   "short": "LC 87/2010",
+   "title": "Lei Complementar nº 87, de 09.03.2010 (DISPÕE SOBRE A EXTINÇÃO DO FUNDO ESTADUAL DE MEIO AMBIENTE - FEMA.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc87.htm",
+   "versions": [
+    {
+     "from": "2010-03-11",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc87.htm",
+     "sha256": "965213a580c431f3f35be3a35faf09562ea138c1d66ed51722cb16f67dc8ee1e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2010-088",
+   "short": "LC 88/2010",
+   "title": "Lei Complementar nº 88, de 09.03.2010 (CRIA O FUNDO DE DEFESA CIVIL DO ESTADO DO CEARÁ - FDCC, E DÁ OUTRAS PROVIDÊNCIAS.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc88.htm",
+   "versions": [
+    {
+     "from": "2010-03-12",
+     "units": 11,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc88.htm",
+     "sha256": "7ae07dbf5bd406fe6df5082e3ab8438aae6e008f21ed1b948a10b2c6ccd74a04"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2010-089",
+   "short": "LC 89/2010",
+   "title": "Lei Complementar nº 89, de 26.10.2010 (ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR Nº 37, DE 26 DE NOVEMBRO DE 2003, QUE INSTITUI O FUNDO ESTADUAL DE COMBATE À POBREZA -FECOP, E DÁ OUTRAS PROVIDÊNCIAS.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc89.htm",
+   "versions": [
+    {
+     "from": "2010-10-26",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc89.htm",
+     "sha256": "144bca2919da96e70ab4692cf3fbf8927b70750c8c84fbead8a8a078b14ebf22"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2010-090",
+   "short": "LC 90/2010",
+   "title": "Lei Complementar nº 90, de 11.11.2010",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc90.htm",
+   "versions": [
+    {
+     "from": "2010-11-11",
+     "units": 7,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc90.htm",
+     "sha256": "dfdc60aa687f5a1f03de68fb4d66925ff90d7310911c9698429f52182db5d7ee"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-092",
+   "short": "LC 92/2011",
+   "title": "Lei Complementar nº 92, de 25.01.2011 (DISCIPLINA O PROCEDIMENTO DE APOSENTADORIA DOS SERVIDORES PÚBLICOS CIVIS E DÁ OUTRAS PROVIDÊNCIAS.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc92.htm",
+   "versions": [
+    {
+     "from": "2018-11-21",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc92.htm",
+     "sha256": "306782da33eaf4f929fabe0e6121485c94e5de620ff725daf29f4d25e9538863"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-093",
+   "short": "LC 93/2011",
+   "title": "Lei Complementar nº 93, de 25.01.2011 (DISCIPLINA O PROCEDIMENTO DE RESERVA OU REFORMA DOS MILITARES ESTADUAIS, E DÁ OUTRAS PROVIDÊNCIAS.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc93.htm",
+   "versions": [
+    {
+     "from": "2018-11-21",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc93.htm",
+     "sha256": "d138556f6404d46be3a133521ece5155146ab37f35da19743689582974dc204f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-094",
+   "short": "LC 94/2011",
+   "title": "Lei Complementar nº 94, de 27.01.2011 (DISPÕE SOBRE AS ATRIBUIÇÕES DO VICE-GOVERNADOR.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc94.htm",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc94.htm",
+     "sha256": "178858490c4b8da8e06de57b2ac5269d7993f02494467f312e6c9c757455255e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-095",
+   "short": "LC 95/2011",
+   "title": "Lei Complementar nº 95, de 27.01.2011",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc95.htm",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 21,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc95.htm",
+     "sha256": "473d5c0059e4c4172a093c5051c4087c2d1657c7b1fbc1b151c7d094c864686f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-096",
+   "short": "LC 96/2011",
+   "title": "Lei Complementar nº 96, de 04.02.2011 (ALTERA OS ARTS. 24, 24-A E 25 DA LEI COMPLEMENTAR Nº 58, DE 31 DE MARÇO DE 2006.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc96.htm",
+   "versions": [
+    {
+     "from": "2011-02-07",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc96.htm",
+     "sha256": "5f285d46251e9774c21f22cb798810f28f84f2ad69ef165ab0928a9bdc64b51a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-097",
+   "short": "LC 97/2011",
+   "title": "Lei Complementar nº 97, de 24.05.2011 (CONFERE NOVA REDAÇÃO A DISPOSITIVOS DA LEI COMPLEMENTAR Nº 58, DE 31 DE MARÇO DE 2006, E DÁ OUTRAS PROVIDÊNCIAS.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc97.htm",
+   "versions": [
+    {
+     "from": "2011-05-24",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc97.htm",
+     "sha256": "e9370235e5b42cded59f1ee899fac3daea02700b1e87f331bee20c95ae1e5657"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-098",
+   "short": "LC 98/2011",
+   "title": "Lei Complementar nº 98, de 13.06.2011",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc98.htm",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 36,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc98.htm",
+     "sha256": "5f06a91301e77fdb716e8477608ef9fe254f8fe6eb680a43590d8814cc2049d8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-099",
+   "short": "LC 99/2011",
+   "title": "Lei Complementar nº 99, de 08.07.2011",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc99.htm",
+   "versions": [
+    {
+     "from": "2011-09-12",
+     "units": 18,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc99.htm",
+     "sha256": "dcaa136ab03b62ff2eceafe03443a858ad2cab1ce8195d21d853d37b663a7dbb"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-100",
+   "short": "LC 100/2011",
+   "title": "Lei Complementar nº 100, de 02.08.2011",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc100.htm",
+   "versions": [
+    {
+     "from": "2011-08-23",
+     "units": 44,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc100.htm",
+     "sha256": "d4ae695acd60aee1e17d6f077aee4f401e95c1d4276cfa439fa0432e7e3e7515"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-101",
+   "short": "LC 101/2011",
+   "title": "Lei Complementar nº 101, de 12.09.2011 (ALTERA O ANEXO II DA LEI COMPLEMENTAR Nº 99, DE 8 DE JULHO DE 2011.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc101.htm",
+   "versions": [
+    {
+     "from": "2011-09-21",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc101.htm",
+     "sha256": "e5ea914aa390c00bbece2c9200561c6a2737720514a502e2e04bfd28ecb8a324"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-102",
+   "short": "LC 102/2011",
+   "title": "Lei Complementar nº 102, de 21.09.2011 (ACRESCENTA O § 3° AO ART. 4º DA LEI COMPLEMENTAR Nº 66, DE 7 DE JANEIRO DE 2008.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc102.htm",
+   "versions": [
+    {
+     "from": "2011-09-30",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc102.htm",
+     "sha256": "585c429873276c69a4095760e7047301747555f00b40974920635c996de2f29b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-103",
+   "short": "LC 103/2011",
+   "title": "Lei Complementar nº 103, de 04.10.2011 (CRIA O FUNDO DE DEFESA AGROPECUÁRIA DO ESTADO DO CEARÁ - FUNDEAGRO, E DÁ OUTRAS PROVIDÊNCIAS.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc103.htm",
+   "versions": [
+    {
+     "from": "2018-11-19",
+     "units": 9,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc103.htm",
+     "sha256": "813509cc5e5e9a05a8c6b87ccbf6d0201b2eb7ea367eaaa021fa11b93b724932"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-104",
+   "short": "LC 104/2011",
+   "title": "Lei Complementar nº 104, de 06.12.2011",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc104.htm",
+   "versions": [
+    {
+     "from": "2011-12-16",
+     "units": 13,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc104.htm",
+     "sha256": "897a7180e823e631b60173b5badb02e7746ff3dd8ea7b74842df1fc0c31a41dc"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-105",
+   "short": "LC 105/2011",
+   "title": "Lei Complementar nº 105, de 21.12.2011 (ACRESCE E ALTERA DISPOSITIVOS À LEI COMPLEMENTAR Nº 14, DE 15 DE SETEMBRO DE 1999, E DÁ OUTRAS PROVIDÊNCIAS.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc105.htm",
+   "versions": [
+    {
+     "from": "2011-12-26",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc105.htm",
+     "sha256": "1c91eefe9eea8c6b4f19937bdc03cabae44905bb2fc9ab742c0b0fc792b6ada4"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-106",
+   "short": "LC 106/2011",
+   "title": "Lei Complementar nº 106, de 28.12.2011",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc106.htm",
+   "versions": [
+    {
+     "from": "2011-12-30",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc106.htm",
+     "sha256": "bb3e2d27797b9d8c0ffdd9517477cf7e88587ec7aebb027d4e9807d21f4cba70"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-107",
+   "short": "LC 107/2012",
+   "title": "Lei Complementar nº 107, de 07.03.2012",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc107.htm",
+   "versions": [
+    {
+     "from": "2012-03-14",
+     "units": 18,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc107.htm",
+     "sha256": "d5e387456dd198dd33461f57504e5924c71d199f42ad7b5bc582f52d8e1b4057"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-108",
+   "short": "LC 108/2012",
+   "title": "Lei Complementar nº 108, de 24.05.2012",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc108.htm",
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc108.htm",
+     "sha256": "fe35802c245b5815c0a20d45f71677d04914d832a81934f1960f6541a5502178"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-109",
+   "short": "LC 109/2012",
+   "title": "Lei Complementar nº 109, de 24.05.2012",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc109.htm",
+   "versions": [
+    {
+     "from": "2012-05-28",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc109.htm",
+     "sha256": "eeadd6b49b428c5a3257b87e1517c350f2fab6e4983a196d7957473499e43389"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-110",
+   "short": "LC 110/2012",
+   "title": "Lei Complementar nº 110, de 25.05.2012 (DISPÕE SOBRE A EXTINÇÃO DO FUNDO ESTADUAL DE DESENVOLVIMENTO INSTITUCIONAL DO CEARÁ - FUNEDINS.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc110.htm",
+   "versions": [
+    {
+     "from": "2012-05-29",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc110.htm",
+     "sha256": "e92a4b28cd85c03505c93f918987adc40b5b986a8733f369a5221f448271e755"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-111",
+   "short": "LC 111/2012",
+   "title": "Lei Complementar nº 111, de 25.05.2012 (ALTERA O ART. 29 DA LEI COMPLEMENTAR Nº 98, DE 13 DE JUNHO DE 2011.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc111.htm",
+   "versions": [
+    {
+     "from": "2012-05-30",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc111.htm",
+     "sha256": "863f1b3a8f4110a423755eef299a0190b674d79b6d24cbc7d9e6df5b6d114708"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-112",
+   "short": "LC 112/2012",
+   "title": "Lei Complementar nº 112, de 18.06.2012",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc112.htm",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 17,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc112.htm",
+     "sha256": "a74897e3bc955c8a0251030c37cfb7f9c7d4391539f908788836d45ac1aef706"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-113",
+   "short": "LC 113/2012",
+   "title": "Lei Complementar nº 113, de 05.09.2012 (Acresce os arts. 5º-A E 5º-B à Lei Complementar nº 12, de 23 de junho de 1999.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc113.htm",
+   "versions": [
+    {
+     "from": "2012-09-06",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc113.htm",
+     "sha256": "0e624782c0b69fa439fd77e07e34c5d631500dd2150de467f4ad0a2b8b2d9acd"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-114",
+   "short": "LC 114/2012",
+   "title": "Lei Complementar nº 114, de 14.11.2012 (CRIA O FUNDO DE SEGURANÇA INSTITUCIONAL E INTELIGÊNCIA DO MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ - FUNSIT, E DÁ OUTRAS PROVIDÊNCIAS.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc114.htm",
+   "versions": [
+    {
+     "from": "2012-11-19",
+     "units": 10,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc114.htm",
+     "sha256": "ed7dbbc73a5a77f07508a1df17e1544cee4975f77121a95dc229144267abe4b3"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-115",
+   "short": "LC 115/2012",
+   "title": "Lei Complementar nº 115, de 14.11.2012",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc115.htm",
+   "versions": [
+    {
+     "from": "2012-11-19",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc115.htm",
+     "sha256": "82f9d6790965f3ccaa25a7bd4718b5975844048f06e82c2c463fdbae2d3fd750"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-116",
+   "short": "LC 116/2012",
+   "title": "Lei Complementar nº 116, de 27.12.2012 (ALTERA E INCLUI DISPOSITIVOS NA LEI COMPLEMENTAR ESTADUAL N° 06, DE 28 DE ABRIL DE 1997.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc116.htm",
+   "versions": [
+    {
+     "from": "2014-07-10",
+     "units": 7,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc116.htm",
+     "sha256": "b78cabcd899ba2b5602469332d284caa96c5cde9ce462713434b6881c620ce7c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-117",
+   "short": "LC 117/2012",
+   "title": "Lei Complementar nº 117, de 27.12.2012 (ALTERA A ESTRUTURA ORGANIZACIONAL DA DEFENSORIA PÚBLICA GERAL DO CEARÁ.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc117.htm",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 12,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc117.htm",
+     "sha256": "6b9614a4098c1119ba75bc54e7dbaab4754ab4e50466d13d8a35ea7db0c92330"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-118",
+   "short": "LC 118/2012",
+   "title": "Lei Complementar nº 118, de 27.12.2012 (ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR Nº 06, DE 28 DE ABRIL DE 1997.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc118.htm",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc118.htm",
+     "sha256": "1c2429fdc6bb6472e818841e6c7dc5db46dc20288aa7de87c4a14a5eb7534de2"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-119",
+   "short": "LC 119/2012",
+   "title": "Lei Complementar nº 119, de 28.12.2012",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc119.htm",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 79,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc119.htm",
+     "sha256": "f185c816ab38833db95f2df36ef5716b74ac10d97b53bec31ad50b7230e40394"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-120",
+   "short": "LC 120/2012",
+   "title": "Lei Complementar nº 120, de 28.12.2012 (ALTERA O ANEXO ÚNICO, DA LEI COMPLEMENTAR N° 112, DE 18 DE JUNHO DE 2012.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc120.htm",
+   "versions": [
+    {
+     "from": "2012-12-31",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc120.htm",
+     "sha256": "5d91ca29cd8892fe5799de61600a0c7add81fb2c75c906e78bd77e4980c2bf11"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-121",
+   "short": "LC 121/2013",
+   "title": "Lei Complementar nº 121, de 15.04.2013 (ACRESCE O §2º AO ART. 2º DA LEI COMPLEMENTAR Nº 65, DE 3 DE JANEIRO DE 2008, E ALTERA O CAPUT DO ART. 48, DA LEI COMPLEMENTAR Nº58, DE 31 DE MARÇO DE 2006.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc121.htm",
+   "versions": [
+    {
+     "from": "2013-04-17",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc121.htm",
+     "sha256": "93c42d17667b965df66f3476292683e3c490e9f7de009032640241fd6f233dc9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-122",
+   "short": "LC 122/2013",
+   "title": "Lei Complementar nº 122, de 12.08.2013",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc122.htm",
+   "versions": [
+    {
+     "from": "2013-08-20",
+     "units": 24,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc122.htm",
+     "sha256": "022c1366cc86626fc8135145d299e35260f56eff26ac92a79cd4c01994c76090"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-123",
+   "short": "LC 123/2013",
+   "title": "Lei Complementar nº 123, de 19.09.2013",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc123.htm",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 36,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc123.htm",
+     "sha256": "8d62572b5f6560f7c95ddfd86ef6a14b19819289ec00d334f62b06d99c1c00df"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-124",
+   "short": "LC 124/2013",
+   "title": "Lei Complementar nº 124, de 10.10.2013",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc124.htm",
+   "versions": [
+    {
+     "from": "2013-10-15",
+     "units": 16,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc124.htm",
+     "sha256": "8709cc17870fc784c8309599adb9aa1a268f9148a2d1e00c90feff0658e30000"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-125",
+   "short": "LC 125/2013",
+   "title": "Lei Complementar nº 125, de 18.10.2013",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc125.htm",
+   "versions": [
+    {
+     "from": "2013-10-25",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc125.htm",
+     "sha256": "33dda430131dce62b5b45148717b8edce0b388bac4b1b4b81dedee0e0a4103f2"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-126",
+   "short": "LC 126/2013",
+   "title": "Lei Complementar nº 126, de 18.10.2013 (ACRESCENTA O § 5º AO ART. 1º DA LEI COMPLEMENTAR Nº 37, DE 26 DE NOVEMBRO DE 2003, QUE INSTITUI O FUNDO ESTADUAL DE COMBATE À POBREZA - FECOP.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc126.htm",
+   "versions": [
+    {
+     "from": "2013-10-23",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc126.htm",
+     "sha256": "4f37295aefde3e739eab057650b921b0920f2b4f20e66ae566fc1439aeebfdf5"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-127",
+   "short": "LC 127/2013",
+   "title": "Lei Complementar nº 127, de 06.11.2013",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc127.htm",
+   "versions": [
+    {
+     "from": "2013-11-12",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc127.htm",
+     "sha256": "903b5589323fb196857a32c5b53aa20afb46e1714ffed81032dd73724930bf2c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-128",
+   "short": "LC 128/2013",
+   "title": "Lei Complementar nº 128, de 14.11.2013 (AUTORIZA A SUSPENSÃO DA VIGÊNCIA DE CONVÊNIOS E CONGÊNERES POR OCASIÃO DA ABERTURA DO PROCEDIMENTO DE TOMADA DE CONTAS ESPECIAL.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc128.htm",
+   "versions": [
+    {
+     "from": "2013-11-21",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc128.htm",
+     "sha256": "466a17dd855a535340dd156649092e02ad5df9a0ab221cf493873704f82e7476"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-129",
+   "short": "LC 129/2013",
+   "title": "Lei Complementar nº 129, de 22.11.2013 (DISPÕE SOBRE O FUNDO DE INOVAÇÃO TECNOLÓGICA DO ESTADO DO CEARÁ - FIT.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc129.htm",
+   "versions": [
+    {
+     "from": "2014-11-24",
+     "units": 17,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc129.htm",
+     "sha256": "e89ed32816e7cae1c74faf0b35d5aa55ffeefd27ddccc9665f270e727ceb0215"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-130",
+   "short": "LC 130/2014",
+   "title": "Lei Complementar nº 130, de 06.01.2014 (INSTITUI O CÓDIGO DE RELACIONAMENTO COM O CONTRIBUINTE DO ESTADO DO CEARÁ, E DÁ OUTRAS PROVIDÊNCIAS.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc130.htm",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 28,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc130.htm",
+     "sha256": "57a4ca786705335b51eac4b6b6df0fe9f80d2d5c0488c2e2bb491ef142cd9bea"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-131",
+   "short": "LC 131/2014",
+   "title": "Lei Complementar nº 131, de 12.02.2014",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc131.htm",
+   "versions": [
+    {
+     "from": "2014-02-12",
+     "units": 17,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc131.htm",
+     "sha256": "e0316d0328d3da5c64ce21d399161d40a7d4e1c528369bbd5944e4c40a059503"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-132",
+   "short": "LC 132/2014",
+   "title": "Lei Complementar nº 132, de 07.03.2014",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc132.htm",
+   "versions": [
+    {
+     "from": "2014-03-12",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc132.htm",
+     "sha256": "21cdcc391ea6f1d6dc11b2d482f8971ced093f0e7802a4bc7d0793e4a33286d6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-133",
+   "short": "LC 133/2014",
+   "title": "Lei Complementar nº 133, de 11.03.2014 (CRIA O FUNDO DE INCENTIVO AO CUMPRIMENTO DE METAS - FUMECE, NA ÁREA DE SEGURANÇA PÚBLICA DO ESTADO DO CEARÁ.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc133.htm",
+   "versions": [
+    {
+     "from": "2014-03-18",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc133.htm",
+     "sha256": "320f76ea55afee3df71de76bf979697e4e74ef25718aace159a88980e31ebc46"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-134",
+   "short": "LC 134/2014",
+   "title": "Lei Complementar nº 134, de 07.04.2014 (ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR Nº 58, DE 31 DE MARÇO DE 2006.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc134.htm",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 24,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc134.htm",
+     "sha256": "c7229caf358399581dfded728ff1b9e025a9719e4785d28bb144141f155a5ce2"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-135",
+   "short": "LC 135/2014",
+   "title": "Lei Complementar nº 135, de 07.04.2014 (DISPÕE SOBRE A TABELA VENCIMENTAL DOS SERVIDORES DO GRUPO OCUPACIONAL ATIVIDADES DE APOIO DA PROCURADORIA-GERAL DO ESTADO - APGE.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc135.htm",
+   "versions": [
+    {
+     "from": "2014-04-07",
+     "units": 13,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc135.htm",
+     "sha256": "5e9facd9ae1abda60fbe701656be5df3daf5cdab0df6240f1fad28458960733c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-136",
+   "short": "LC 136/2014",
+   "title": "Lei Complementar nº 136, de 23.05.2014",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc136.htm",
+   "versions": [
+    {
+     "from": "2014-06-10",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc136.htm",
+     "sha256": "f5573255f0d852948d8b20bdcfd9bd50877745e65858c4055f98b3b00c92a865"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-138",
+   "short": "LC 138/2014",
+   "title": "Lei Complementar nº 138, de 06.06.2014",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc138.htm",
+   "versions": [
+    {
+     "from": "2014-06-16",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc138.htm",
+     "sha256": "5c0bd4ff382b1f3fbd5571393cd2f317384e618194853f75a63c41849faead88"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-139",
+   "short": "LC 139/2014",
+   "title": "Lei Complementar nº 139, de 12.06.2014 (DISPÕE SOBRE A CRIAÇÃO DO FUNDO ESTADUAL DE POLÍTICAS SOBRE ÁLCOOL E OUTRAS DROGAS - FEPAD, E DÁ OUTRAS PROVIDÊNCIAS.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc139.htm",
+   "versions": [
+    {
+     "from": "2015-07-27",
+     "units": 16,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc139.htm",
+     "sha256": "c19830f463b48e33a03f1b693c3610a128f9389de52225b1264bdaa188544c3d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-140",
+   "short": "LC 140/2014",
+   "title": "Lei Complementar nº 140, de 12.06.2014",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc140.htm",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc140.htm",
+     "sha256": "ba0fe956bc4a71c6bafec7d9440b156561980df49cbe1daa65852ccbf1505a91"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-141",
+   "short": "LC 141/2014",
+   "title": "Lei Complementar nº 141, de 07.07.2014 (ALTERA DISPOSITIVO NA LEI COMPLEMENTAR ESTADUAL Nº 06, DE 28 DE ABRIL DE 1997.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc141.htm",
+   "versions": [
+    {
+     "from": "2014-07-11",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc141.htm",
+     "sha256": "738276a1d0a18676790cbb30cc578ba05eb752870e8896858281b5672554436d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-142",
+   "short": "LC 142/2014",
+   "title": "Lei Complementar nº 142, de 10.07.2014",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc142.htm",
+   "versions": [
+    {
+     "from": "2016-12-29",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc142.htm",
+     "sha256": "33c0b3841d5a4113edc6d33cb173729383e733f96ef968d8cb056531333ec8b3"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-143",
+   "short": "LC 143/2014",
+   "title": "Lei Complementar nº 143, de 31.07.2014 (REVOGA O INCISO I DO ART. 3º DA LEI Nº 11.728, DE 4 DE SETEMBRO DE 1990, QUE CRIA O FUNDO DE ELETRIFICAÇÃO RURAL PARA IRRIGAÇÃO - FERPI.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc143.htm",
+   "versions": [
+    {
+     "from": "2014-08-14",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc143.htm",
+     "sha256": "460a852c62c1da79a9ddba34460f33ce15d33a013762d1518f76517314b8317e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-144",
+   "short": "LC 144/2014",
+   "title": "Lei Complementar nº 144, de 04.09.2014",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc144.htm",
+   "versions": [
+    {
+     "from": "2014-09-08",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc144.htm",
+     "sha256": "c148cbaf129678d37724bb6b7410ff8a795e4f6387da5f93f1075f018181313c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-145",
+   "short": "LC 145/2014",
+   "title": "Lei Complementar nº 145, de 24.11.2014 (ALTERA A LEI COMPLEMENTAR Nº 129, DE 22 DE NOVEMBRO DE 2013.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc145.htm",
+   "versions": [
+    {
+     "from": "2014-11-24",
+     "units": 12,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc145.htm",
+     "sha256": "8304602fd237e32c7692d8530ca985a13c0d5313a337714e6275896b0801a667"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-146",
+   "short": "LC 146/2014",
+   "title": "Lei Complementar nº 146, de 27.11.2014 (ALTERA A LEI COMPLEMENTAR Nº 137, DE 23 DE MAIO DE 2014.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc146.htm",
+   "versions": [
+    {
+     "from": "2014-12-09",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc146.htm",
+     "sha256": "59a794f28da7f04f5866d3c8724a6650c651bd3a14c89513e12da5690c5c2e49"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-147",
+   "short": "LC 147/2014",
+   "title": "Lei Complementar nº 147, de 27.11.2014",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc147.htm",
+   "versions": [
+    {
+     "from": "2014-12-10",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc147.htm",
+     "sha256": "217e0be8ec5d022b145d121a3894187f697bca5c156fe5b1044ce1dfbe191536"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-148",
+   "short": "LC 148/2014",
+   "title": "Lei Complementar nº 148, de 24.12.2014",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc148.htm",
+   "versions": [
+    {
+     "from": "2014-12-26",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc148.htm",
+     "sha256": "f05a291e7ef9b16451a60041c371cced5400c8af0f6378c6d1f550e8d8526c2a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-149",
+   "short": "LC 149/2014",
+   "title": "Lei Complementar nº 149, de 29.12.2014 (ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR Nº 58, DE 31 DE MARÇO DE 2006.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc149.htm",
+   "versions": [
+    {
+     "from": "2014-12-31",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc149.htm",
+     "sha256": "d2e3f7d0d0d8e6a20f0a1be70d55287c76f8b9e0618616f4f91491d4876983dc"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-150",
+   "short": "LC 150/2015",
+   "title": "Lei Complementar nº 150, de 27.07.2015",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc150.htm",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc150.htm",
+     "sha256": "b1f001c993c4b5b957bf896c418d66939b944871f55b3f5b70e1d717a6c53901"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-151",
+   "short": "LC 151/2015",
+   "title": "Lei Complementar nº 151, de 27.07.2015",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc151.htm",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 9,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc151.htm",
+     "sha256": "9f903c6b514f3d8c0c518b9988f60b5661128a8cca8b8e21a6ef91cbcf83b51c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-153",
+   "short": "LC 153/2015",
+   "title": "Lei Complementar nº 153, de 04.09.2015 (DISPÕE SOBRE A CRIAÇÃO DO FUNDO ESTADUAL DO IDOSO DO CEARÁ - FEICE.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc153.htm",
+   "versions": [
+    {
+     "from": "2015-09-09",
+     "units": 12,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc153.htm",
+     "sha256": "49c7b03363fd8deb8a1632e3a3c162faad609253b8d01fc12ddde82c644d0876"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-154",
+   "short": "LC 154/2015",
+   "title": "Lei Complementar nº 154, de 20.10.2015 (DEFINE AS REGIÕES DO ESTADO DO CEARÁ E SUAS COMPOSIÇÕES DE MUNICÍPIOS PARA FINS DE PLANEJAMENTO.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc154.htm",
+   "versions": [
+    {
+     "from": "2015-10-22",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc154.htm",
+     "sha256": "ab939bb68d197bbd54789d2117e98f52d8d9d3bb4164f9b9b37e86a4fb52873f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-155",
+   "short": "LC 155/2015",
+   "title": "Lei Complementar nº 155, de 04.11.2015 (ACRESCENTA O § 3º AO ART. 15 DA LEI COMPLEMENTAR N.º 119, DE 28 DE DEZEMBRO DE 2012.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc155.htm",
+   "versions": [
+    {
+     "from": "2015-11-04",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc155.htm",
+     "sha256": "9851b8d65db1180af56c161606fa396c3e7d071d27908f1b76449320f66769ed"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-156",
+   "short": "LC 156/2015",
+   "title": "Lei Complementar nº 156, de 11.12.2015",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc156.htm",
+   "versions": [
+    {
+     "from": "2015-12-11",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc156.htm",
+     "sha256": "4d82939b2194d1acbf5ad9100b189ac6bd130112638593402e62dd6479ef309b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-157",
+   "short": "LC 157/2016",
+   "title": "Lei Complementar nº 157, de 14.01.2016",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc157.htm",
+   "versions": [
+    {
+     "from": "2016-01-18",
+     "units": 23,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc157.htm",
+     "sha256": "cd44cd8f1346c264c058fa416d95b605ab38c9fc3faedff02abbac9ebece4528"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-158",
+   "short": "LC 158/2016",
+   "title": "Lei Complementar nº 158, de 14.01.2016 (CRIA O FUNDO ESTADUAL DE DESENVOLVIMENTO DO TURISMO DO ESTADO DO CEARÁ.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc158.htm",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 13,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc158.htm",
+     "sha256": "f3221c02a8f0eb749b44a9ef8decd3145454817960b67c2492c4208ceed2e08a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-159",
+   "short": "LC 159/2016",
+   "title": "Lei Complementar nº 159, de 14.01.2016",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc159.htm",
+   "versions": [
+    {
+     "from": "2016-01-18",
+     "units": 19,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc159.htm",
+     "sha256": "3d2b2f00c52b8061d89c66fb56651254822ff1684f25374a8a6b9efef1ec5915"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-160",
+   "short": "LC 160/2016",
+   "title": "Lei Complementar nº 160, de 11.02.2016",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc160.htm",
+   "versions": [
+    {
+     "from": "2016-02-11",
+     "units": 15,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc160.htm",
+     "sha256": "701ef914ad67024173e436df761ca575a96812e5a6174e311e229f1e9dcc0c91"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-161",
+   "short": "LC 161/2016",
+   "title": "Lei Complementar nº 161, de 23.03.2016 (ALTERA O ART. 2º, INCISO I, E ART. 4º DA LEI COMPLEMENTAR Nº 37, DE 26 DE NOVEMBRO DE 2003.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc161.htm",
+   "versions": [
+    {
+     "from": "2016-03-23",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc161.htm",
+     "sha256": "714b373e917378b9a235114a7c4f0f6502ff6445eba6072cc790e927ff20ac65"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-162",
+   "short": "LC 162/2016",
+   "title": "Lei Complementar nº 162, de 20.06.2016",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc162.htm",
+   "versions": [
+    {
+     "from": "2016-06-22",
+     "units": 36,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc162.htm",
+     "sha256": "3274d082b267cd970f3a98e4cfdc359211ba5464c0444be06462add52d558046"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-163",
+   "short": "LC 163/2016",
+   "title": "Lei Complementar nº 163, de 05.07.2016",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc163.htm",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 17,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc163.htm",
+     "sha256": "74ef84f02ca33b66e8ea5d385948b516ea70138f92b2492aebd2c36c4dad63a0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-164",
+   "short": "LC 164/2016",
+   "title": "Lei Complementar nº 164, de 27.07.2016",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc164.htm",
+   "versions": [
+    {
+     "from": "2016-07-29",
+     "units": 14,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc164.htm",
+     "sha256": "2433c18b8f3c2a9d22d2272ac53a43f0209a3424e8d96a229a25f3bbaa2ea9fd"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-165",
+   "short": "LC 165/2016",
+   "title": "Lei Complementar nº 165, de 02.09.2016",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc165.htm",
+   "versions": [
+    {
+     "from": "2016-09-13",
+     "units": 14,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc165.htm",
+     "sha256": "86f460f14a9bb50b843bb355c974500050fb2e455be77980bf5fc3cb275e4f55"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-166",
+   "short": "LC 166/2016",
+   "title": "Lei Complementar nº 166, de 14.12.2016 (DISPÕE SOBRE A INTERPRETAÇÃO DO CAPUT DO ART. 1º DA LEI COMPLEMENTAR Nº 37, DE 26 DE NOVEMBRO DE 2003.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc166.htm",
+   "versions": [
+    {
+     "from": "2016-12-15",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc166.htm",
+     "sha256": "fcea3aa3594e0b9e936d6dbd5d0735bf4e847325f379a7f87db39eb0baa27c9b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-167",
+   "short": "LC 167/2016",
+   "title": "Lei Complementar nº 167, de 27.12.2016",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc167.htm",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc167.htm",
+     "sha256": "34c83e0b3b4ea7bcdc58592d0fa0e047a4d86e802fe9ca146d0f095f7d856eb0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-168",
+   "short": "LC 168/2016",
+   "title": "Lei Complementar nº 168, de 27.12.2016 (DISPÕE SOBRE A CRIAÇÃO DA REGIÃO METROPOLITANA DE SOBRAL, CRIA O CONSELHO DE DESENVOLVIMENTO E INTEGRAÇÃO DA REGIÃO METROPOLITANA DE SOBRAL.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc168.htm",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 11,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc168.htm",
+     "sha256": "d6189432125939ea60e18ba05daa6673d258b8224af0af967f8ef713da907ecf"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-169",
+   "short": "LC 169/2016",
+   "title": "Lei Complementar nº 169, de 27.12.2016",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc169.htm",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 18,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc169.htm",
+     "sha256": "6064dd4928ee1aa8e4f6b6347e947c93e5210b7476330e9d6cd05bdddbf7e086"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-170",
+   "short": "LC 170/2016",
+   "title": "Lei Complementar nº 170, de 28.12.2016 (ALTERA A LEI COMPLEMENTAR Nº. 81, DE 2 DE SETEMBRO DE 2009.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc170.htm",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 10,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc170.htm",
+     "sha256": "ee47c4a7c2d403ca8c5f952985ca187d2327d1eab69299764d626238a5b7ed4c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-171",
+   "short": "LC 171/2016",
+   "title": "Lei Complementar nº 171, de 29.12.2016 (ALTERA DISPOSITIVOS NA LEI COMPLEMENTAR ESTADUAL No 06, DE 28 DE ABRIL DE 1997.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc171.htm",
+   "versions": [
+    {
+     "from": "2017-01-13",
+     "units": 9,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc171.htm",
+     "sha256": "0ea738d45f46d6f922dd055e52f67e48cd09fc749de95f7b5a9f78385d5ddd67"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-172",
+   "short": "LC 172/2017",
+   "title": "Lei Complementar nº 172, de 17.03.2017 (ALTERA DISPOSITIVO DA LEI COMPLEMENTAR N° 70, DE 10 DE NOVEMBRO DE 2008.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc172.htm",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc172.htm",
+     "sha256": "a14d8264e85dcd25742331b621a34dad1a667a3be58c964460bdc2f272cec500"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-173",
+   "short": "LC 173/2017",
+   "title": "Lei Complementar nº 173, de 03.08.2017 (ALTERA A LEI COMPLEMENTAR Nº 22, DE 24 DE JULHO DE 2000.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc173.htm",
+   "versions": [
+    {
+     "from": "2017-08-09",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc173.htm",
+     "sha256": "b02272d109e9e7274b601797f88fd1e70efdaa024529c8d1328d77327ed84dd0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-174",
+   "short": "LC 174/2017",
+   "title": "Lei Complementar nº 174, de 03.08.2017 (ALTERA O ART. 7º-A, DA LEI COMPLEMENTAR Nº 13, DE 20 DE JULHO DE 1999.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc174.htm",
+   "versions": [
+    {
+     "from": "2017-08-09",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc174.htm",
+     "sha256": "076709425b47f97dfddbff7aa978c1e7ab3aa69b0038940526200cfc6b5c34f1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-175",
+   "short": "LC 175/2017",
+   "title": "Lei Complementar nº 175, de 12.12.2017",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc175.htm",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 23,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc175.htm",
+     "sha256": "a6a748aa6ae5c4316414169580804f230cc4d528d014f496ec5f889d47174967"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-176",
+   "short": "LC 176/2018",
+   "title": "Lei Complementar nº 176, de 15.03.2018 (ALTERA A LEI COMPLEMENTAR N.º 14, DE 15 DE SETEMBRO DE 1999, MODIFICADA PELA LEI COMPLEMENTAR N.º 105, DE 21 DE DEZEMBRO DE 2011.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc176.htm",
+   "versions": [
+    {
+     "from": "2018-03-16",
+     "units": 7,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc176.htm",
+     "sha256": "d274cf3b30a6543ef49643cd2cf1dc54d3b997bd7d06d91698c48889898edf22"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-177",
+   "short": "LC 177/2018",
+   "title": "Lei Complementar nº 177, de 06.04.2018 (ALTERA DISPOSITIVOS NA LEI COMPLEMENTAR ESTADUAL Nº 06, DE 28 DE ABRIL DE 1997.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc177.htm",
+   "versions": [
+    {
+     "from": "2018-04-24",
+     "units": 10,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc177.htm",
+     "sha256": "ea5c9cd7de554b3f6968117cf010eb5d51733f2e7c8236b0007832f4a4b247c0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-178",
+   "short": "LC 178/2018",
+   "title": "Lei Complementar nº 178, de 10.05.2018",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc178.htm",
+   "versions": [
+    {
+     "from": "2018-05-11",
+     "units": 78,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc178.htm",
+     "sha256": "9131d8024949da36a5e1bc29cfa71e5bd442349feddbedf3b2bf3a93fb24a722"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-179",
+   "short": "LC 179/2018",
+   "title": "Lei Complementar nº 179, de 28.06.2018 (ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR Nº 58, DE 31 DE MARÇO DE 2006, DA LEI N.º 11.966, DE 17 DE JUNHO DE 1992.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc179.htm",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc179.htm",
+     "sha256": "02feef1cc0839e92df6865902bfeefe880a08519182655b5f8f088c225c4f25e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-180",
+   "short": "LC 180/2018",
+   "title": "Lei Complementar nº 180, de 18.07.2018 (DISPÕE SOBRE O PROGRAMA DE GOVERNANÇA INTERFEDERATIVA DO ESTADO DO CEARÁ, DENOMINADO \"CEARÁ UM SÓ\".)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc180.htm",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 27,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc180.htm",
+     "sha256": "c0c39a980409758267b3da9c5d97bba41f04832be0182c6e37299fb5360810a0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-181",
+   "short": "LC 181/2018",
+   "title": "Lei Complementar nº 181, de 18.07.2018 (ALTERA A LEI COMPLEMENTAR N.º 98, DE 13 DE JUNHO DE 2011.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc181.htm",
+   "versions": [
+    {
+     "from": "2018-07-20",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc181.htm",
+     "sha256": "51a385736cfcc6febc62273c0d93c7a73cdfd132afdc5e860853d004018bd728"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-182",
+   "short": "LC 182/2018",
+   "title": "Lei Complementar nº 182, de 19.11.2018 (ALTERA A LEI COMPLEMENTAR Nº 103, DE 4 DE OUTUBRO DE 2011, QUE CRIA O FUNDO DE DEFESA AGROPECUÁRIO DO ESTADO DO CEARÁ - FUNDEAGRO.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc182.htm",
+   "versions": [
+    {
+     "from": "2018-11-20",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc182.htm",
+     "sha256": "bc4b3de905c0895ed64614ecc17ac1d3622a058e039efd28f65a6e23b278ac77"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-183",
+   "short": "LC 183/2018",
+   "title": "Lei Complementar nº 183, de 21.11.2018",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc183.htm",
+   "versions": [
+    {
+     "from": "2018-11-22",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc183.htm",
+     "sha256": "aa81d7ee00308c8dda7fc21cbd3dc91d2f219e341c742f1a9ebb070dc469f2bb"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-184",
+   "short": "LC 184/2018",
+   "title": "Lei Complementar nº 184, de 21.11.2018 (CRIA A FUNDAÇÃO DE PREVIDÊNCIA SOCIAL DO ESTADO DO CEARÁ - CEARAPREV.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc184.htm",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 24,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc184.htm",
+     "sha256": "4bdc070dac78b5a9a99f7dd5ac1119fef990623e8faa54916d10d0dbc0e299ef"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-185",
+   "short": "LC 185/2018",
+   "title": "Lei Complementar nº 185, de 21.11.2018 (DISPÕE SOBRE NORMAS PARA CRIAÇÃO E FUNCIONAMENTO DA FUNDAÇÃO DE PREVIDÊNCIA COMPLEMENTAR DO ESTADO DO CEARÁ - CE-PREVCOM.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc185.htm",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 32,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc185.htm",
+     "sha256": "7fd62a85eaad0dd52e1f28ab0044b7c5f5ba034e7cad11824c836bf18e62b58e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-186",
+   "short": "LC 186/2018",
+   "title": "Lei Complementar nº 186, de 21.11.2018 (ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR ESTADUAL Nº 72, DE 12 DE DEZEMBRO DE 2008, LEI ORGÂNICA E ESTATUTO DO MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc186.htm",
+   "versions": [
+    {
+     "from": "2018-11-23",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc186.htm",
+     "sha256": "b4e580904400398dde4e31a8a5bba5f85c7715ba2cb8bf33bade3e70f0c63f7d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-187",
+   "short": "LC 187/2018",
+   "title": "Lei Complementar nº 187, de 21.12.2018",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc187.htm",
+   "versions": [
+    {
+     "from": "2018-12-26",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc187.htm",
+     "sha256": "a4a4377444c299872110b7f965dbba9755cd3e9c2363319cfac0ac95f3f5a202"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-188",
+   "short": "LC 188/2018",
+   "title": "Lei Complementar nº 188, de 21.12.2018 (ESTABELECE CRITÉRIOS OBJETIVOS PARA A REVISÃO DA SEGREGAÇÃO DA MASSA DE SEGURADOS DO SISTEMA ÚNICO DE PREVIDÊNCIA SOCIAL DO ESTADO DO CEARÁ - SUPSEC.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc188.htm",
+   "versions": [
+    {
+     "from": "2018-12-26",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc188.htm",
+     "sha256": "29f0ff49651227662fe62b00dff6cea34ac140f92665979acdf99205b7b92eed"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-189",
+   "short": "LC 189/2018",
+   "title": "Lei Complementar nº 189, de 26.12.2018 (ALTERA DISPOSITIVOS DAS LEIS COMPLEMENTARES N° 58, DE 31 DE MARÇO DE 2006; Nº 70, DE 10 DE NOVEMBRO DE 2008; E Nº 134, DE 7 DE ABRIL DE 2014.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc189.htm",
+   "versions": [
+    {
+     "from": "2019-04-02",
+     "units": 13,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc189.htm",
+     "sha256": "a376eb1041053d8c089312d6c41265c50994d68710e121c13cb693baf42ae0ad"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-190",
+   "short": "LC 190/2018",
+   "title": "Lei Complementar nº 190, de 26.12.2018",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc190.htm",
+   "versions": [
+    {
+     "from": "2019-01-02",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc190.htm",
+     "sha256": "cc1055bf40e38403c410bed0b63692663e92f8b8a3f3a58682e0ce5ebac8c2a7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-191",
+   "short": "LC 191/2019",
+   "title": "Lei Complementar nº 191, de 13.01.2019 (ALTERA A LEI COMPLEMENTAR Nº 47, DE 16 DE JULHO DE 2004, E CRIA O FUNDO DE SEGURANÇA PÚBLICA E DEFESA SOCIAL DO ESTADO DO CEARÁ.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc191.htm",
+   "versions": [
+    {
+     "from": "2019-01-13",
+     "units": 7,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc191.htm",
+     "sha256": "1e99232199046f116890c87f5be5098ac0c3af5e13c9c413356a82390b16c4cb"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-192",
+   "short": "LC 192/2019",
+   "title": "Lei Complementar nº 192, de 06.03.2019",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc192.htm",
+   "versions": [
+    {
+     "from": "2019-03-07",
+     "units": 13,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc192.htm",
+     "sha256": "8217d6e6368425537a2f095050d01d8627a48a0aa8e3526ddab1eac440e51c06"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-193",
+   "short": "LC 193/2019",
+   "title": "Lei Complementar nº 193, de 02.04.2019 (ALTERA AS LEIS COMPLEMENTARES N.º 58, DE 31 DE MARÇO DE 2006; N.º 189, DE 26 DE DEZEMBRO DE 2018, E A LEI N.º 14.219, DE 14 DE OUTUBRO DE 2008.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc193.htm",
+   "versions": [
+    {
+     "from": "2019-04-03",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc193.htm",
+     "sha256": "40ffd41ca0e78d2294dd0e981f09c82ae0c7cca2a11bfa69de4bc2f8502edf62"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-194",
+   "short": "LC 194/2019",
+   "title": "Lei Complementar nº 194, de 15.04.2019",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc194.htm",
+   "versions": [
+    {
+     "from": "2019-04-16",
+     "units": 9,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc194.htm",
+     "sha256": "14d274b1a194c29bd398e8536b7ecb3dc5729f29a0009840ccf1390236788c4a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-195",
+   "short": "LC 195/2019",
+   "title": "Lei Complementar nº 195, de 06.05.2019 (INSTITUI, NO ÂMBITO DO ESTADO DO CEARÁ, O PROGRAMA CEARÁ ATLETA E ALTERA A LEI COMPLEMENTAR N.º 37, DE 26 DE NOVEMBRO DE 2003.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc195.htm",
+   "versions": [
+    {
+     "from": "2019-07-06",
+     "units": 14,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc195.htm",
+     "sha256": "cd4cdfbe6d3021eb62694759de60917fcdfa2cfad431e76af2b756ffaf8c69df"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-196",
+   "short": "LC 196/2019",
+   "title": "Lei Complementar nº 196, de 06.05.2019 (ALTERA A LEI COMPLEMENTAR N.º 52, DE 30 DE DEZEMBRO DE 2004.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc196.htm",
+   "versions": [
+    {
+     "from": "2019-05-06",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc196.htm",
+     "sha256": "27c2de419602600affbce1cca0dce77507d225a0a2eea14ab5ec76d6a0596d56"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-197",
+   "short": "LC 197/2019",
+   "title": "Lei Complementar nº 197, de 10.05.2019 (ALTERA O ART 1.º DA LEI COMPLEMENTAR N.º 36, DE 6 DE AGOSTO DE 2003, QUE DISPÕE SOBRE A CRIAÇÃO DO FUNDO DE DESENVOLVIMENTO DO ESPORTE E JUVENTUDE.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc197.htm",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc197.htm",
+     "sha256": "07f54389db572c2111baa30a39711e7a2424b3fdce014731d679a79de6c4b035"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-198",
+   "short": "LC 198/2019",
+   "title": "Lei Complementar nº 198, de 10.05.2019 (ALTERA A LEI COMPLEMENTAR N.º 119, DE 28 DE DEZEMBRO DE 2012.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc198.htm",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc198.htm",
+     "sha256": "f7aeb1ddaf91f6de360a2af67a57112b4fb1582667824736411266101ce72de3"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-199",
+   "short": "LC 199/2019",
+   "title": "Lei Complementar nº 199, de 10.05.2019 (ALTERA A LEI COMPLEMENTAR N.º 58, DE 31 DE MARÇO DE 2006.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc199.htm",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc199.htm",
+     "sha256": "9f133b703362e7edd7af9d44a80dd8223fb3ef0b13d57da886dff9eea3ea1dac"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-200",
+   "short": "LC 200/2019",
+   "title": "Lei Complementar nº 200, de 08.07.2019",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc200.htm",
+   "versions": [
+    {
+     "from": "2019-07-09",
+     "units": 8,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc200.htm",
+     "sha256": "bd753a872e6e6a0c05147d217dbfd459a13103e2c314de75a89506ed0817db42"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-201",
+   "short": "LC 201/2019",
+   "title": "Lei Complementar nº 201, de 08.07.2019",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc201.htm",
+   "versions": [
+    {
+     "from": "2019-07-09",
+     "units": 9,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc201.htm",
+     "sha256": "7987e22505bfbe4958575d3ba57a102dd6701a83be3155d2930d388943fa7834"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-202",
+   "short": "LC 202/2019",
+   "title": "Lei Complementar nº 202, de 29.07.2019 (AUTORIZA A DESISTÊNCIA DE PROCESSOS DE APOSENTADORIA NA FORMA QUE INDICA.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc202.htm",
+   "versions": [
+    {
+     "from": "2019-07-29",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc202.htm",
+     "sha256": "226b571c1156101e7face649b62cf66b14b55da9e6e99708c9c666f66dc7683b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-203",
+   "short": "LC 203/2019",
+   "title": "Lei Complementar nº 203, de 29.07.2019 (DISPÕE SOBRE A CRIAÇÃO, A ORGANIZAÇÃO E A EXTINÇÃO DE DISTRITOS.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc203.htm",
+   "versions": [
+    {
+     "from": "2019-07-30",
+     "units": 11,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc203.htm",
+     "sha256": "30488ce7b5b1da12af30e1e248ab203ae7ddc6569119c660cfe5fd4932ffeb22"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-204",
+   "short": "LC 204/2019",
+   "title": "Lei Complementar nº 204, de 30.08.2019 (ALTERA DISPOSITIVO DA LEI COMPLEMENTAR N.º 37, DE 26 DE NOVEMBRO DE 2003, QUE INSTITUI O FUNDO ESTADUAL DE COMBATE À POBREZA - FECOP.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc204.htm",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc204.htm",
+     "sha256": "7ec8648087dbf94a6574547e74292bba0a9311f4ff7a7a69b3f751ffad3dc240"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-205",
+   "short": "LC 205/2019",
+   "title": "Lei Complementar nº 205, de 07.11.2019 (ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR ESTADUAL N.º 72, DE 12 DE DEZEMBRO DE 2008, LEI ORGÂNICA E ESTATUTO DO MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc205.htm",
+   "versions": [
+    {
+     "from": "2019-11-07",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc205.htm",
+     "sha256": "ca6b54d4c3fb1b8c86211f17f1be09ca185d6efe1eb3c89b68a36e8c561a7ef0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-207",
+   "short": "LC 207/2019",
+   "title": "Lei Complementar nº 207, de 07.11.2019 (ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR N.º 158, DE 14 DE JANEIRO DE 2016, QUE CRIA O FUNDO ESTADUAL DE DESENVOLVIMENTO DO TURISMO DO CEARÁ.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc207.htm",
+   "versions": [
+    {
+     "from": "2019-11-07",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc207.htm",
+     "sha256": "0e053feb5fc7388b7573c884fafdaefd02503dca96858d598f2cd5539e3ec535"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-206",
+   "short": "LC 206/2019",
+   "title": "Lei Complementar nº 206, de 14.11.2019",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc206.htm",
+   "versions": [
+    {
+     "from": "2019-11-18",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc206.htm",
+     "sha256": "e2c6d82d416e1cec1de3a0d3ce3cbfe5fa6ed9faaf685b4d86d06668b1906e64"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-212",
+   "short": "LC 212/2019",
+   "title": "Lei Complementar nº 212, de 27.12.2019",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc212.htm",
+   "versions": [
+    {
+     "from": "2019-12-30",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc212.htm",
+     "sha256": "a1a2c481411438b8494c25651f276c5a66183b235f2e72022712beb84cd0cde9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-225",
+   "short": "LC 225/2020",
+   "title": "Lei Complementar nº 225, de 07.12.2020 (ALTERA A REDAÇÃO DA EMENTA E DO CAPÍTULO V DA LEI COMPLEMENTAR N.º 130, DE 6 DE JANEIRO DE 2014.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc225.htm",
+   "versions": [
+    {
+     "from": "2020-12-07",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc225.htm",
+     "sha256": "852a6238cd0e4f04bb9778d47911959277ac89543b609f5149a7d261fead1900"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-226",
+   "short": "LC 226/2020",
+   "title": "Lei Complementar nº 226, de 11.12.2020 (DISPÕE SOBRE A REGULARIZAÇÃO DA ATUAÇÃO DE OPERADORES NO ÂMBITO DO SERVIÇO DE TRANSPORTE REGULAR METROPOLITANO COMPLEMENTAR DE FORTALEZA.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc226.htm",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 7,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc226.htm",
+     "sha256": "626a23f6fceccfe966ad726ca7120eea4514c11cdf11054e29dab23aad226834"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-235",
+   "short": "LC 235/2021",
+   "title": "Lei Complementar nº 235, de 12.03.2021 (ALTERA DISPOSITIVOS NA LEI COMPLEMENTAR ESTADUAL N.º 6, DE 28 DE ABRIL DE 1997.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc235.htm",
+   "versions": [
+    {
+     "from": "2021-03-12",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc235.htm",
+     "sha256": "92a7081964bfb21ce5be3ff1b6ef521127f8388bf29086f556c98f9bc3dbe916"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-236",
+   "short": "LC 236/2021",
+   "title": "Lei Complementar nº 236, de 12.03.2021 (RENOVA A AUTORIZAÇÃO AO PODER EXECUTIVO PARA O PAGAMENTO DAS CONTAS DE ÁGUA DE CONSUMIDORES DE BAIXA RENDA DO SISTEMA INTEGRADO DE SANEAMENTO RURAL - SISAR.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc236.htm",
+   "versions": [
+    {
+     "from": "2021-03-12",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc236.htm",
+     "sha256": "20d7cdbbad78fb6fe514df3e871eb655f1669d86dab8a86d04db6265307bb305"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-237",
+   "short": "LC 237/2021",
+   "title": "Lei Complementar nº 237, de 23.03.2021",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc237.htm",
+   "versions": [
+    {
+     "from": "2021-03-23",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc237.htm",
+     "sha256": "febc65006f6ffc14541031e5188f1871e18705fee2c75e2fdfa1c248f2b6828d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-238",
+   "short": "LC 238/2021",
+   "title": "Lei Complementar nº 238, de 31.03.2021 (ALTERA A LEI COMPLEMENTAR N.º 130, DE 6 DE JANEIRO DE 2014, PARA SUBSTITUIR ENTIDADE COMPONENTE DO CONSELHO DE RELACIONAMENTO COM O CONTRIBUINTE - CONDECON.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc238.htm",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc238.htm",
+     "sha256": "7bfd685e367623c6ab76b1493768e7ed6238413651af91cc1c4261bd298cc574"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-239",
+   "short": "LC 239/2021",
+   "title": "Lei Complementar nº 239, de 09.04.2021",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc239.htm",
+   "versions": [
+    {
+     "from": "2021-04-09",
+     "units": 10,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc239.htm",
+     "sha256": "06233016d5087d92a67213ff9d429a3a605eb11387e30e2665525f511bbb1ef9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-240",
+   "short": "LC 240/2021",
+   "title": "Lei Complementar nº 240, de 16.04.2021 (ALTERA O ART. 4.º DA LEI COMPLEMENTAR N.º 22, DE 24 DE JULHO DE 2000.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc240.htm",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc240.htm",
+     "sha256": "1d0be4728772882771dceff4d73f53991a116519dcd5b8e69dcb827fecfce663"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-243",
+   "short": "LC 243/2021",
+   "title": "Lei Complementar nº 243, de 31.05.2021 (ALTERA A LEI COMPLEMENTAR N.º 234, DE 9 DE MARÇO DE 2021.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc243.htm",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc243.htm",
+     "sha256": "a713d81f550b911a4ce9838f2e4534c74073e3ab69bf101c83c9068ca77f6ec6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-244",
+   "short": "LC 244/2021",
+   "title": "Lei Complementar nº 244, de 31.05.2021 (ALTERA A LEI COMPLEMENTAR N.° 14, DE 15 DE SETEMBRO DE 1999, E REVOGA A LEI COMPLEMENTAR N.º 241, DE 3 DE MAIO DE 2021.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc244.htm",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc244.htm",
+     "sha256": "68ea7aac813960a6a3c43921d1e1820063950efb803b55a401f146edd1f8016b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-245",
+   "short": "LC 245/2021",
+   "title": "Lei Complementar nº 245, de 15.06.2021 (CONFERE NOVA REDAÇÃO À LEI COMPLEMENTAR Nº 66, DE 7 DE JANEIRO DE 2008, QUE DISPÕE SOBRE O FUNDO ESTADUAL DE DESENVOLVIMENTO DA AGRICULTURA FAMILIAR - FEDAF.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc245.htm",
+   "versions": [
+    {
+     "from": "2021-06-15",
+     "units": 14,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc245.htm",
+     "sha256": "220337ccc9b28245c64e9c5a0f184b227cdb7c39023055e17093251cb5230f7e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-246",
+   "short": "LC 246/2021",
+   "title": "Lei Complementar nº 246, de 15.06.2021 (ALTERA A LEI COMPLEMENTAR N.º 37, DE 26 DE NOVEMBRO DE 2003.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc246.htm",
+   "versions": [
+    {
+     "from": "2021-06-15",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc246.htm",
+     "sha256": "5ecbcfa353382d816c03a434ca8b5b07e15de22f9429e212c89fae13133c7788"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-247",
+   "short": "LC 247/2021",
+   "title": "Lei Complementar nº 247, de 18.06.2021 (INSTITUI, NO ESTADO DO CEARÁ, AS MICRORREGIÕES DE ÁGUA E ESGOTO DO OESTE, DO CENTRO-NORTE E DO CENTRO-SUL E SUAS RESPECTIVAS ESTRUTURAS DE GOVERNANÇA.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc247.htm",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 25,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc247.htm",
+     "sha256": "41939ff029bda6adeadf5d2e8ad19d919d983d2df165228c5b95b0d06f1740ec"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-248",
+   "short": "LC 248/2021",
+   "title": "Lei Complementar nº 248, de 18.06.2021 (ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR ESTADUAL Nº 72, DE 12 DE DEZEMBRO DE 2008, LEI ORGÂNICA E ESTATUTO DO MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc248.htm",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc248.htm",
+     "sha256": "6191006a71701afd653fdb24d2fc114047de3d6c099295b486b5d39e5f81cffd"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-249",
+   "short": "LC 249/2021",
+   "title": "Lei Complementar nº 249, de 28.06.2021",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc249.htm",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 8,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc249.htm",
+     "sha256": "6f643b7c9b168882dd90e7cf0e8e5e235d8d28bb5783e48a9224c4af723c0fa8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-250",
+   "short": "LC 250/2021",
+   "title": "Lei Complementar nº 250, de 03.08.2021 (ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR ESTADUAL N.º 72, DE 12 DE DEZEMBRO DE 2008, LEI ORGÂNICA E ESTATUTO DO MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc250.htm",
+   "versions": [
+    {
+     "from": "2021-08-03",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc250.htm",
+     "sha256": "efcedbd268eace9859de1a66286db5986f2e7c317a961f41e175869c43e4f542"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-251",
+   "short": "LC 251/2021",
+   "title": "Lei Complementar nº 251, de 06.08.2021 (ALTERA DISPOSITIVOS NA LEI COMPLEMENTAR ESTADUAL N.º 6, DE 28 DE ABRIL DE 1997.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc251.htm",
+   "versions": [
+    {
+     "from": "2021-08-06",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc251.htm",
+     "sha256": "8da69ed71728496abd269ceae67b6d02ebb3015ba77c92e089694925bdd8e622"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-252",
+   "short": "LC 252/2021",
+   "title": "Lei Complementar nº 252, de 06.08.2021",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc252.htm",
+   "versions": [
+    {
+     "from": "2021-08-06",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc252.htm",
+     "sha256": "74979e83b00fc69b11cb0fa80f29b66b76793f7e29f59d0923757881761c1cab"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-253",
+   "short": "LC 253/2021",
+   "title": "Lei Complementar nº 253, de 25.08.2021",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc253.htm",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 12,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc253.htm",
+     "sha256": "e40ebbec2926fcf3e28c630b095c1ca6256608b6c951fd8c9711af0e8194f7da"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-254",
+   "short": "LC 254/2021",
+   "title": "Lei Complementar nº 254, de 25.08.2021 (ALTERA A LEI COMPLEMENTAR N.º 58, DE 31 DE MARÇO DE 2006.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc254.htm",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc254.htm",
+     "sha256": "ab09521d6e1dc88f5085fef14fc8e8bc5f76fb256f2dfcc405d2ea39689daccc"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-256",
+   "short": "LC 256/2021",
+   "title": "Lei Complementar nº 256, de 25.08.2021",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc256.htm",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc256.htm",
+     "sha256": "9ce82bc0d253bb35c79a96c7a251213d3cf85292ca39073f2453a71f757df319"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-255",
+   "short": "LC 255/2021",
+   "title": "Lei Complementar nº 255, de 15.10.2021 (ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR ESTADUAL N.º 6, DE 28 DE ABRIL DE 1997.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc255.htm",
+   "versions": [
+    {
+     "from": "2021-10-15",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc255.htm",
+     "sha256": "e29b745140737dd313ac22684e9e6a618c496dbc3b420484943dcff43b4e6845"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-257",
+   "short": "LC 257/2021",
+   "title": "Lei Complementar nº 257, de 04.11.2021",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc257.htm",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc257.htm",
+     "sha256": "03cdcb489d1e98e2bb490c13529ba85fddbf48e78bbcd638bfd2d8523bd4166a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-258",
+   "short": "LC 258/2021",
+   "title": "Lei Complementar nº 258, de 26.11.2021",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc258.htm",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 23,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc258.htm",
+     "sha256": "c0a3b55b50238c887092c023ac1976af96d0270aa59c7d1313b7ed7ae7915ef0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-259",
+   "short": "LC 259/2021",
+   "title": "Lei Complementar nº 259, de 10.12.2021",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc259.htm",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc259.htm",
+     "sha256": "e1a16eb23d14a39b656eabc9d1c6efe18d2711c627d63c0ebe26ca975a62f303"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-260",
+   "short": "LC 260/2021",
+   "title": "Lei Complementar nº 260, de 10.12.2021 (ALTERA a lei complementar n.º 58, de 31 de março de 2006.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc260.htm",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc260.htm",
+     "sha256": "0accd1d0cb127760254ec97d54bd5ff5964b7247e3a7a9ce41b526a0ff53246c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-261",
+   "short": "LC 261/2021",
+   "title": "Lei Complementar nº 261, de 10.12.2021",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc261.htm",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc261.htm",
+     "sha256": "5d0adc28703044a6d61ac4d01b3df698462062279063038cdfa0850e99421865"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-263",
+   "short": "LC 263/2021",
+   "title": "Lei Complementar nº 263, de 10.12.2021 (DISPÕE SOBRE A CRIAÇÃO DO SUBGRUPO ATIVIDADE DE GESTÃO TERRITORIAL URBANA, NO GRUPO OCUPACIONAL ATIVIDADES DE NÍVEL SUPERIOR - ANS.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc263.htm",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 14,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc263.htm",
+     "sha256": "ea047b230b7ce6f6ecf095823d39d67c0989ffc41c96ae892bd7050a49601c3c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-264",
+   "short": "LC 264/2021",
+   "title": "Lei Complementar nº 264, de 10.12.2021 (ALTERA A LEI N.º 14.219, DE 21 DE OUTUBRO DE 2008.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc264.htm",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc264.htm",
+     "sha256": "deed27aa54b412ecaaed3c20ee8914f55b3649b2e3325ab4ed72dd5176a8b559"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-265",
+   "short": "LC 265/2021",
+   "title": "Lei Complementar nº 265, de 10.12.2021",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc265.htm",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 8,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc265.htm",
+     "sha256": "6b40fc392c3a2e807c610f9f76725361ad40472c6179c8e21aab50a4197dc846"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-266",
+   "short": "LC 266/2021",
+   "title": "Lei Complementar nº 266, de 10.12.2021 (ALTERA DISPOSITIVOS DA LEI N.º 13.666, DE 20 DE SETEMBRO DE 2005.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc266.htm",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 7,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc266.htm",
+     "sha256": "0ccf4612a4dac9d0aae7e00b38cd2f7e6096ea17dcde65d8b81c979d88f2af8a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-267",
+   "short": "LC 267/2021",
+   "title": "Lei Complementar nº 267, de 10.12.2021 (CRIA GRATIFICAÇÕES PARA OS SERVIDORES DO QUADRO DE PESSOAL DO INSTITUTO DO DESENVOLVIMENTO AGRÁRIO DO CEARÁ - IDACE.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc267.htm",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 10,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc267.htm",
+     "sha256": "2276835b462025be02c997e79e10366eac61d8c4af3d37e9fe50e42354b02775"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-268",
+   "short": "LC 268/2021",
+   "title": "Lei Complementar nº 268, de 10.12.2021 (CRIA GRATIFICAÇÕES PARA OS SERVIDORES DO QUADRO DE PESSOAL DO INSTITUTO DE SAÚDE DOS SERVIDORES DO ESTADO DO CEARÁ - ISSEC.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc268.htm",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 12,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc268.htm",
+     "sha256": "212d2ea235d879476f40084f6395c3bc9250232b463652576908148b5d597574"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-269",
+   "short": "LC 269/2021",
+   "title": "Lei Complementar nº 269, de 10.12.2021",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc269.htm",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 16,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc269.htm",
+     "sha256": "eb62f9486147e09271b35933e883f862896393dbc9fc9b78a917f96e8729cde8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-273",
+   "short": "LC 273/2021",
+   "title": "Lei Complementar nº 273, de 10.12.2021",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc273.htm",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc273.htm",
+     "sha256": "ad9ed26a161eb1fa494a5a4fa2bdc5078f83f3a6bef38cec2d2717941681e19b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-274",
+   "short": "LC 274/2021",
+   "title": "Lei Complementar nº 274, de 10.12.2021",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc274.htm",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc274.htm",
+     "sha256": "570998814b2e972bb6ea53d60215b573d83d0f4d3040da1c08e4e5f600b7f567"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-262",
+   "short": "LC 262/2021",
+   "title": "Lei Complementar nº 262, de 30.12.2021 (ALTERA DISPOSITIVOS DAS LEIS N.º 13.658 E N.º 13.659, AMBAS DE 20 DE SETEMBRO DE 2005.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc262.htm",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc262.htm",
+     "sha256": "881fc3744678be6fa4979b37c553f1cd9e9ec6257e96e3b6cf683e6dd2fb27aa"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-270",
+   "short": "LC 270/2021",
+   "title": "Lei Complementar nº 270, de 30.12.2021",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc270.htm",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 21,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc270.htm",
+     "sha256": "8f76df07a3050e1024902be335dd061dfd5b512d2959cd90d044ddb436c24d14"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-271",
+   "short": "LC 271/2021",
+   "title": "Lei Complementar nº 271, de 30.12.2021 (CRIA O GRUPO OCUPACIONAL ATIVIDADES DE REGISTRO MERCANTIL, NO QUADRO DE PESSOAL DA JUNTA COMERCIAL DO ESTADO DO CEARÁ.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc271.htm",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 15,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc271.htm",
+     "sha256": "ad09cef9634ac849af0138ceeef0671b1f3cfc3d0575547acc564934b6c60c72"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-272",
+   "short": "LC 272/2021",
+   "title": "Lei Complementar nº 272, de 30.12.2021 (12.2025))",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc272.htm",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 13,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc272.htm",
+     "sha256": "f7bdcfc056f1ae8dfc499bf17311b33d9cd7bb2a73879bd0fe325d800475b396"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-275",
+   "short": "LC 275/2022",
+   "title": "Lei Complementar nº 275, de 11.01.2022 (ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR ESTADUAL N.º 6, DE 28 DE ABRIL DE 1997, QUE CRIA A DEFENSORIA PÚBLICA GERAL DO ESTADO DO CEARÁ.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc275.htm",
+   "versions": [
+    {
+     "from": "2022-01-11",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc275.htm",
+     "sha256": "49614d56e8d99c0bc179e7989887baa17769b752472c87f65ad8fc057728db6a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-276",
+   "short": "LC 276/2022",
+   "title": "Lei Complementar nº 276, de 11.01.2022",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc276.htm",
+   "versions": [
+    {
+     "from": "2022-01-11",
+     "units": 11,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc276.htm",
+     "sha256": "6ee6ca9cd34713c9216a3bd9b736d30ab0adb3e44494d8ec61c25a93b0f8c11c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-277",
+   "short": "LC 277/2022",
+   "title": "Lei Complementar nº 277, de 14.02.2022 (ALTERA A LEI COMPLEMENTAR Nº 58, DE 31 DE MARÇO DE 2006, QUE DISPÕE SOBRE A LEI ORGÂNICA DA PROCURADORIA GERAL DO ESTADO.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc277.htm",
+   "versions": [
+    {
+     "from": "2022-02-14",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc277.htm",
+     "sha256": "3cd3f36ac7a9a7add1f38eeafca144a9252f36bb2ae311dbfd7e10099bb4a71e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-278",
+   "short": "LC 278/2022",
+   "title": "Lei Complementar nº 278, de 16.02.2022 (ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR Nº 72, DE 12 DE DEZEMBRO DE 2008, LEI ORGÂNICA E ESTATUTO DO MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc278.htm",
+   "versions": [
+    {
+     "from": "2022-02-16",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc278.htm",
+     "sha256": "486dd6bcb7aa464d54461f9e0d3294e98bf88baf916072b29fcf0404b68c1478"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-279",
+   "short": "LC 279/2022",
+   "title": "Lei Complementar nº 279, de 21.02.2022",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc279.htm",
+   "versions": [
+    {
+     "from": "2022-02-21",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc279.htm",
+     "sha256": "ac8c4bef48e6043052a04c5ec53d758d74117be24f99931e0f138aa3a317420e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-280",
+   "short": "LC 280/2022",
+   "title": "Lei Complementar nº 280, de 22.02.2022",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc280.htm",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 15,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc280.htm",
+     "sha256": "b633999e501df0a7fd52509ae3ee7052200151cd389610b2592439e50dce6bf2"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-281",
+   "short": "LC 281/2022",
+   "title": "Lei Complementar nº 281, de 31.03.2022",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc281.htm",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 8,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc281.htm",
+     "sha256": "70393b9da7e3861bdffd0645544faf994b1a8662392fd24b2b925e49928f752c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-282",
+   "short": "LC 282/2022",
+   "title": "Lei Complementar nº 282, de 01.04.2022",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc282.htm",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 11,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc282.htm",
+     "sha256": "56e615aa0a5abf7626ff4cd031d4ba02e252de3c641ea5af900295f10362896b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-284",
+   "short": "LC 284/2022",
+   "title": "Lei Complementar nº 284, de 04.05.2022 (ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR ESTADUAL Nº 72, DE 12 DE DEZEMBRO DE 2008, LEI ORGÂNICA E ESTATUTO DO MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc284.htm",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc284.htm",
+     "sha256": "15b0622f7f32c908b8865007dafc3986676a78c8b3d61ef28379b17c79f2ae97"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-285",
+   "short": "LC 285/2022",
+   "title": "Lei Complementar nº 285, de 24.05.2022 (ALTERA DISPOSITIVOS NA LEI COMPLEMENTAR ESTADUAL N.º 6, DE 28 DE ABRIL DE 1997.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc285.htm",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc285.htm",
+     "sha256": "d456cbacc5228a9d4000971a0e748ff5b5d1832ba48569505a93c4a7558173ed"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-286",
+   "short": "LC 286/2022",
+   "title": "Lei Complementar nº 286, de 24.05.2022 (ALTERA A LEI COMPLEMENTAR N.º 58, DE 31 DE MARÇO DE 2006, QUE DISPÕE SOBRE A LEI ORGÂNICA DA PROCURADORIA-GERAL DO ESTADO.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc286.htm",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 12,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc286.htm",
+     "sha256": "9f8df1265478523b610d88170c45d037e7b8ef823fae4588ea863ff6c9a020da"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-287",
+   "short": "LC 287/2022",
+   "title": "Lei Complementar nº 287, de 12.07.2022",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc287.htm",
+   "versions": [
+    {
+     "from": "2022-07-12",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc287.htm",
+     "sha256": "c65756806f287e70757c8dcd9984950ed5034cebd96ab9e35281939b57cc784e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-288",
+   "short": "LC 288/2022",
+   "title": "Lei Complementar nº 288, de 20.07.2022",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc288.htm",
+   "versions": [
+    {
+     "from": "2022-07-20",
+     "units": 13,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc288.htm",
+     "sha256": "dd6209efa9758b8563409bdf36c083dded50e912e95e7319bdcd31c10d37b06f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-290",
+   "short": "LC 290/2022",
+   "title": "Lei Complementar nº 290, de 02.08.2022 (ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR ESTADUAL N.º 72, DE 12 DE DEZEMBRO DE 2008, LEI ORGÂNICA E ESTATUTO DO MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc290.htm",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc290.htm",
+     "sha256": "8d787c114827db9a5aa64bcd9859e16386ebc5cd2fcc2f5c4f4f83b638036c2c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-291",
+   "short": "LC 291/2022",
+   "title": "Lei Complementar nº 291, de 02.08.2022 (ALTERA A LEI COMPLEMENTAR ESTADUAL N.º 72, DE 12 DE DEZEMBRO DE 2008, LEI ORGÂNICA E ESTATUTO DO MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc291.htm",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc291.htm",
+     "sha256": "93c9fc74b38af7bdf162daceb531fb07e7771b763d2c478845cf5afee78a00f0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-289",
+   "short": "LC 289/2022",
+   "title": "Lei Complementar nº 289, de 30.08.2022 (ALTERA A LEI COMPLEMENTAR N.º 58, DE 31 DE MARÇO DE 2006, QUE DISPÕE SOBRE A LEI ORGÂNICA DA PROCURADORIA-GERAL DO ESTADO.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc289.htm",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc289.htm",
+     "sha256": "87f5c4a8149f3856c52eab4188eb1f59d11b7c329b3b91e03fbfb5385f81a146"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-292",
+   "short": "LC 292/2022",
+   "title": "Lei Complementar nº 292, de 08.09.2022 (ALTERA A LEI COMPLEMENTAR N.º 170, DE 28 DE DEZEMBRO DE 2016, E A LEI N.º 17.573, DE 23 DE JULHO DE 2021.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc292.htm",
+   "versions": [
+    {
+     "from": "2022-09-08",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc292.htm",
+     "sha256": "017727168d1d0b2ed56487f443fe62dd7493c6d35fe6b17a7883e8bc85f71bbb"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-283",
+   "short": "LC 283/2022",
+   "title": "Lei Complementar nº 283, de 09.09.2022 (ALTERA A LEI COMPLEMENTAR N.º 58, DE 31 DE MARÇO DE 2006, QUE DISPÕE SOBRE A LEI ORGÂNICA DA PROCURADORIA-GERAL DO ESTADO.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc283.htm",
+   "versions": [
+    {
+     "from": "2022-09-09",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc283.htm",
+     "sha256": "143594d253acf8102b4a24d8c7499054c294a2f709f34c42144358a5a4e5514a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-293",
+   "short": "LC 293/2022",
+   "title": "Lei Complementar nº 293, de 27.10.2022 (ALTERA DISPOSITIVOS NA LEI COMPLEMENTAR ESTADUAL N.o 6, DE 28 DE ABRIL DE 1997.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc293.htm",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 8,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc293.htm",
+     "sha256": "2145727f2fb8876ee6c8d2e54b84e287c8d1d4c879ede68860fe91e456480abd"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-294",
+   "short": "LC 294/2022",
+   "title": "Lei Complementar nº 294, de 27.10.2022 (ALTERA DISPOSITIVOS NA LEI COMPLEMENTAR ESTADUAL N.o 6, DE 28 DE ABRIL DE 1997.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc294.htm",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc294.htm",
+     "sha256": "ca2d886b76a2efcb1f76b125663052bbec19b799f32122ced22a9e3a2eb657aa"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-295",
+   "short": "LC 295/2022",
+   "title": "Lei Complementar nº 295, de 07.12.2022 (ALTERA A LEI COMPLEMENTAR N.º 58, DE 31 DE MARÇO DE 2006, QUE DISPÕE SOBRE A LEI ORGÂNICA DA PROCURADORIA-GERAL DO ESTADO.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc295.htm",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc295.htm",
+     "sha256": "52c8c9e4f5b3145ad6e0a3ea365ef0f39123dc442b74be8b39541799ac0709da"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-296",
+   "short": "LC 296/2022",
+   "title": "Lei Complementar nº 296, de 16.12.2022 (INSTITUI O NOVO MARCO LEGAL DA GESTÃO DE ATIVOS IMOBILIÁRIOS DO ESTADO DO CEARÁ, PERMITE A INTEGRALIZAÇÃO DE BENS E DIREITOS A FUNDOS DE INVESTIMENTO.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc296.htm",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 51,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc296.htm",
+     "sha256": "6d71ae0002b08ed319d543792b455c8b72c2194d3e3de4fc84dc39a51b984fa9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-297",
+   "short": "LC 297/2022",
+   "title": "Lei Complementar nº 297, de 19.12.2022",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc297.htm",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 7,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc297.htm",
+     "sha256": "926b606983556b40e24013d9912d8ab2f2532ad94de141ea75ed43e4b9ece5e9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-298",
+   "short": "LC 298/2022",
+   "title": "Lei Complementar nº 298, de 23.12.2022",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc298.htm",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc298.htm",
+     "sha256": "e548afe7022e78ba23c0e5c3700d2af4d7da493c3d1b2584711d5b0322c57173"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-299",
+   "short": "LC 299/2022",
+   "title": "Lei Complementar nº 299, de 23.12.2022 (DISPÕE SOBRE A AÇÃO COMPARTILHADA DE QUE TRATA A LEI COMPLEMENTAR N.º 259, DE 10 DE DEZEMBRO DE 2021.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc299.htm",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc299.htm",
+     "sha256": "b487be2b930118137fa8512835f9245e6e6931652d49994a44cada0861ea4667"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-300",
+   "short": "LC 300/2022",
+   "title": "Lei Complementar nº 300, de 23.12.2022 (ALTERA a lei complementar n.º 58, de 31 de março de 2006, QUE DISPÕE SOBRE A LEI ORGÂNICA DA PROCURADORIA-GERAL DO ESTADO.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc300.htm",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc300.htm",
+     "sha256": "50890c764f9bbfef4d467a66bd4bd001a8e72e54a84062aa14548f3e3e27ed83"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-301",
+   "short": "LC 301/2023",
+   "title": "Lei Complementar nº 301, de 10.03.2023 (ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR ESTADUAL N.º 30, DE 26 DE JULHO DE 2002, QUE CRIA O PROGRAMA ESTADUAL DE PROTEÇÃO E DEFESA DO CONSUMIDOR - DECON.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc301.htm",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc301.htm",
+     "sha256": "a17a70b54e177408ea5d608fc902ca64f9048170dc36bf17e1f31c7feaf009c7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-302",
+   "short": "LC 302/2023",
+   "title": "Lei Complementar nº 302, de 20.03.2023",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc302.htm",
+   "versions": [
+    {
+     "from": "2023-03-21",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc302.htm",
+     "sha256": "8883615af3bfcdd2fff337881bd40f7151fb83ba2c7c7ff50c0ff184c321e674"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-303",
+   "short": "LC 303/2023",
+   "title": "Lei Complementar nº 303, de 20.03.2023",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc303.htm",
+   "versions": [
+    {
+     "from": "2023-03-21",
+     "units": 12,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc303.htm",
+     "sha256": "2d11852b564d7960c78187c4bda809b49e32541cf5155c4d2f3e215cf4738abe"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-304",
+   "short": "LC 304/2023",
+   "title": "Lei Complementar nº 304, de 08.05.2023 (ALTERA A LEI COMPLEMENTAR N.º 58, DE 31 DE MARÇO DE 2006, QUE DISPÕE SOBRE A LEI ORGÂNICA DA PROCURADORIA-GERAL DO ESTADO.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc304.htm",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc304.htm",
+     "sha256": "9908b7f3ebfca64e999a3df058b87b06ddfd4c8d9a1b122a6e9dc15a25f0d6ec"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-305",
+   "short": "LC 305/2023",
+   "title": "Lei Complementar nº 305, de 29.05.2023 (ALTERA A LEI COMPLEMENTAR ESTADUAL N.º 72, DE 12 DE DEZEMBRO DE 2008, LEI ORGÂNICA E ESTATUTO DO MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc305.htm",
+   "versions": [
+    {
+     "from": "2023-04-05",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc305.htm",
+     "sha256": "ab3eff7c2719db213d152e598c49f9172df0caa03d1670f0e866a50b3fa1416d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-306",
+   "short": "LC 306/2023",
+   "title": "Lei Complementar nº 306, de 15.06.2023 (ALTERA DISPOSITIVOS NA LEI COMPLEMENTAR ESTADUAL N.º 06, DE 28 DE ABRIL DE 1997.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc306.htm",
+   "versions": [
+    {
+     "from": "2024-06-04",
+     "units": 11,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc306.htm",
+     "sha256": "70a3429a23c6d675c50e06b93d17e75025e9b26c83a91fe4f1a701173bcb11c1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-307",
+   "short": "LC 307/2023",
+   "title": "Lei Complementar nº 307, de 10.07.2023",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc307.htm",
+   "versions": [
+    {
+     "from": "2023-07-11",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc307.htm",
+     "sha256": "3e4ee38193ba028e8e2c55ee9db352191498a0800fea1e9c53067a238b4c9551"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-308",
+   "short": "LC 308/2023",
+   "title": "Lei Complementar nº 308, de 10.07.2023",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc308.htm",
+   "versions": [
+    {
+     "from": "2023-07-11",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc308.htm",
+     "sha256": "700283ba4e1f603aaa6c1c2dde6740a11ceb16066feb2815e390bbd4ed3289fa"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-309",
+   "short": "LC 309/2023",
+   "title": "Lei Complementar nº 309, de 10.07.2023",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc309.htm",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 49,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc309.htm",
+     "sha256": "df3589a9864a48a2be03c556848be6a80f17eea671a6d8ef500f7153e5fa153f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-310",
+   "short": "LC 310/2023",
+   "title": "Lei Complementar nº 310, de 20.07.2023",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc310.htm",
+   "versions": [
+    {
+     "from": "2023-07-20",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc310.htm",
+     "sha256": "c4b4ef360ebcb7a4364765fbbdb5c25cbd8fa29d88ee8ce441a4270a6b53ada2"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-311",
+   "short": "LC 311/2023",
+   "title": "Lei Complementar nº 311, de 20.07.2023 (ALTERA A LEI COMPLEMENTAR N.º 184, DE 21 DE NOVEMBRO DE 2018, QUE CRIA A FUNDAÇÃO DE PREVIDÊNCIA SOCIAL DO ESTADO DO CEARÁ - CEARAPREV.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc311.htm",
+   "versions": [
+    {
+     "from": "2023-07-20",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc311.htm",
+     "sha256": "7b9ba921729452c2c5e86b9c034379244f55f1d7edd031ae1218177d896aa602"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-312",
+   "short": "LC 312/2023",
+   "title": "Lei Complementar nº 312, de 01.09.2023 (EXTINGUE O FUNDO DE SEGURANÇA INSTITUCIONAL E INTELIGÊNCIA DO MINISTÉRIO PÚBLICO - FUNSIT.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc312.htm",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc312.htm",
+     "sha256": "bbf1bea49d01c4b1d56b85e8f48d2a6108283b10e64cae3af31f9a3f449136d6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-313",
+   "short": "LC 313/2023",
+   "title": "Lei Complementar nº 313, de 01.09.2023 (ALTERA A LEI COMPLEMENTAR N.º 282, DE 1.º DE ABRIL DE 2022, QUE CRIA O FUNDO MAIS INFÂNCIA CEARÁ.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc313.htm",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc313.htm",
+     "sha256": "61d93386c40ebb5d5aaed783d7071de0048f02ba7164506b9a68af7e20501098"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-314",
+   "short": "LC 314/2023",
+   "title": "Lei Complementar nº 314, de 07.09.2023",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc314.htm",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 22,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc314.htm",
+     "sha256": "61e2cdbf3eef51ab561d67675ff67a9894c566b9126869b4bde0f88036d22a72"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-315",
+   "short": "LC 315/2023",
+   "title": "Lei Complementar nº 315, de 21.09.2023",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc315.htm",
+   "versions": [
+    {
+     "from": "2023-09-22",
+     "units": 13,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc315.htm",
+     "sha256": "b15bc84755cc46db71b90b42e2da0d082dfc5af5e14a064d4d34f63fd38af9bf"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-316",
+   "short": "LC 316/2023",
+   "title": "Lei Complementar nº 316, de 21.09.2023",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc316.htm",
+   "versions": [
+    {
+     "from": "2023-09-22",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc316.htm",
+     "sha256": "f5a4152f7437aadd89df58e61d4f65d88460b4d7b824f151bbebf1de7576ee0b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-317",
+   "short": "LC 317/2023",
+   "title": "Lei Complementar nº 317, de 01.11.2023",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc317.htm",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc317.htm",
+     "sha256": "a57e84325bb65fd82e31a8e589b236acd2e96fbce47b1b68dfa893bf2937a453"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-318",
+   "short": "LC 318/2023",
+   "title": "Lei Complementar nº 318, de 01.11.2023",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc318.htm",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc318.htm",
+     "sha256": "d3a65a7b8633dffa17aa5fb36033c7e2cc656c13f61de5f4577741ab2e29835d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-319",
+   "short": "LC 319/2023",
+   "title": "Lei Complementar nº 319, de 19.12.2023",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc319.htm",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 9,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc319.htm",
+     "sha256": "0a2feadb24fd2c0c413811ade7ca4439a3352edb0352022eb8508b6433788efb"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-320",
+   "short": "LC 320/2023",
+   "title": "Lei Complementar nº 320, de 19.12.2023 (ALTERA A LEI COMPLEMENTAR N.º 58, DE 31 DE MARÇO DE 2006.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc320.htm",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc320.htm",
+     "sha256": "142f127182285c1ec7c8c43eca4ffa71f4d673ba29ff0d4a26067ad4eb40476a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-321",
+   "short": "LC 321/2023",
+   "title": "Lei Complementar nº 321, de 28.12.2023",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc321.htm",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc321.htm",
+     "sha256": "fd00f0ee91a16359f4c1157d148d0fadf048ef3521458b41c4127aea636bb187"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-322",
+   "short": "LC 322/2024",
+   "title": "Lei Complementar nº 322, de 11.04.2024",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc322.htm",
+   "versions": [
+    {
+     "from": "2024-04-11",
+     "units": 13,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc322.htm",
+     "sha256": "4a4423c2b9dc7d363876d91874e4fa0c88b8c18f752a82cc6cf57951194ac38c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-323",
+   "short": "LC 323/2024",
+   "title": "Lei Complementar nº 323, de 17.04.2024",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc323.htm",
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "units": 8,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc323.htm",
+     "sha256": "e30e9b5af09c4ec77d47f2d1fb010c8e94b6520c46e435ee4660f9b8f334ca04"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-324",
+   "short": "LC 324/2024",
+   "title": "Lei Complementar nº 324, de 19.04.2024",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc324.htm",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc324.htm",
+     "sha256": "66c0ab1fdb8f3f950226a844692728190be20fe5faad7b6056480fdb6e9f2a5e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-325",
+   "short": "LC 325/2024",
+   "title": "Lei Complementar nº 325, de 21.05.2024",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc325.htm",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 10,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc325.htm",
+     "sha256": "76835c341013184aa3eb56519b5ef1e1e4ceae4c4169bd4d575623287186db70"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-332",
+   "short": "LC 332/2024",
+   "title": "Lei Complementar nº 332, de 03.06.2024 (DISPÕE, COM FINS DECLARATÓRIOS, SOBRE A FORMA DE REAJUSTE DOS PROVENTOS DE INATIVIDADE AOS SERVIDORES QUE INDICA.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc332.htm",
+   "versions": [
+    {
+     "from": "2024-06-03",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc332.htm",
+     "sha256": "7405944dc5af253d48cb4c4be1655be2e5cd5f51e48439cb5d6582a7f48fca73"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-326",
+   "short": "LC 326/2024",
+   "title": "Lei Complementar nº 326, de 04.06.2024 (ALTERA A LEI COMPLEMENTAR N.º 6, DE 28 DE ABRIL DE 1997.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc326.htm",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc326.htm",
+     "sha256": "78ff2fececda922acbb948dcc24bb525e86c61d79845fe3d27680ab04367c953"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-327",
+   "short": "LC 327/2024",
+   "title": "Lei Complementar nº 327, de 04.06.2024 (ALTERA A LEI COMPLEMENTAR N.o 6, DE 28 DE ABRIL DE 1997.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc327.htm",
+   "versions": [
+    {
+     "from": "2024-06-04",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc327.htm",
+     "sha256": "313964295ba081428e33aedd8744c60320d4311d803f7cc031b8b0796d671fc4"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-328",
+   "short": "LC 328/2024",
+   "title": "Lei Complementar nº 328, de 05.06.2024 (ESTABELECE CRITÉRIOS OBJETIVOS PARA A REVISÃO DA SEGREGAÇÃO DA MASSA DO SISTEMA ÚNICO DE PREVIDÊNCIA SOCIAL DO ESTADO DO CEARÁ - SUPSEC.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc328.htm",
+   "versions": [
+    {
+     "from": "2024-06-06",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc328.htm",
+     "sha256": "40a1f9f9e782cb6464dbf559484ab53f2c6a989d43498d68cfd96c46d9204ec1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-329",
+   "short": "LC 329/2024",
+   "title": "Lei Complementar nº 329, de 13.06.2024 (REESTRUTURA O PLANO DE CARGOS, CARREIRAS E REMUNERAÇÃO DOS SERVIDORES DO QUADRO DE PESSOAL DO DEPARTAMENTO ESTADUAL DE TRÂNSITO - DETRAN/CEARÁ.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc329.htm",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 16,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc329.htm",
+     "sha256": "753d03c0b9f334b9933229c28733f375f1db3a219e888e49b5ca61998e6dfa2e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-330",
+   "short": "LC 330/2024",
+   "title": "Lei Complementar nº 330, de 14.06.2024 (DISPÕE SOBRE AÇÃO DE APOIO TÉCNICO E FINANCEIRO ÀS MULHERES RURAIS NO ÂMBITO DO ACORDO DE EMPRÉSTIMO CELEBRADO ENTRE O ESTADO E O BANCO MUNDIAL.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc330.htm",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 21,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc330.htm",
+     "sha256": "686e2f8202cccc0e6256cae37057cdcde1429ace3f6eb815f10fa2eb531abe4d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-331",
+   "short": "LC 331/2024",
+   "title": "Lei Complementar nº 331, de 28.06.2024 (ALTERA A LEI COMPLEMENTAR N.º 123, DE 16 DE SETEMBRO DE 2013, QUE INSTITUI O REGIME DE PREVIDÊNCIA COMPLEMENTAR DO ESTADO DO CEARÁ.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc331.htm",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc331.htm",
+     "sha256": "c5684ec800ae71cd7dc868404b418f8ee42769b33ae5ad841b7db607bfea1a3a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-333",
+   "short": "LC 333/2024",
+   "title": "Lei Complementar nº 333, de 30.07.2024",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc333.htm",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc333.htm",
+     "sha256": "f19e412f3a62ae0c9f73e1f358fe5f12c7e67807e420bdf97c9af0b0d949c419"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-334",
+   "short": "LC 334/2024",
+   "title": "Lei Complementar nº 334, de 17.09.2024 (CRIA O SISTEMA ESTADUAL DE PROCESSAMENTO PREVIDENCIÁRIO, ALTERA AS LEIS COMPLEMENTARES N.º 58, DE 31 DE MARÇO DE 2006, E N.º 184, DE 21 DE NOVEMBRO DE 2018.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc334.htm",
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc334.htm",
+     "sha256": "7cc753644ea40d67e9e4b5ba2837e66bcf14a9453e73a0ea6c5391180c145175"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-335",
+   "short": "LC 335/2024",
+   "title": "Lei Complementar nº 335, de 07.10.2024",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc335.htm",
+   "versions": [
+    {
+     "from": "2024-10-07",
+     "units": 72,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc335.htm",
+     "sha256": "c2224d88e08101c98f8e4c40d0d9ec86010357ed0b1310f9fcf1d13cf5092f5a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-336",
+   "short": "LC 336/2024",
+   "title": "Lei Complementar nº 336, de 07.11.2024 (ALTERA A LEI COMPLEMENTAR N.º 270, DE 30 DE DEZEMBRO DE 2021, E O ANEXO I DA LEI Nº 17.132, DE 16 DE DEZEMBRO DE 2019.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc336.htm",
+   "versions": [
+    {
+     "from": "2024-11-07",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc336.htm",
+     "sha256": "a6045528e665e243b8eb4618c17dc6db4aa44a28c8093a04b520785f2e4999ad"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-337",
+   "short": "LC 337/2024",
+   "title": "Lei Complementar nº 337, de 08.11.2024",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc337.htm",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc337.htm",
+     "sha256": "7b7c58ac5d8b22561629e7149017f344c76f9524595b0b66ffc3b810f917ce77"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-338",
+   "short": "LC 338/2024",
+   "title": "Lei Complementar nº 338, de 04.12.2024 (ALTERA A LEI COMPLEMENTAR N.º 296, DE 16 DE DEZEMBRO DE 2022, QUE INSTITUI O NOVO MARCO LEGAL DA GESTÃO DE ATIVOS IMOBILIÁRIOS DO ESTADO DO CEARÁ.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc338.htm",
+   "versions": [
+    {
+     "from": "2024-12-04",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc338.htm",
+     "sha256": "7fd372c6be2e3d865c0aa71a4ce7f8b8701b2353dbe61c6381031a8caf0315de"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-339",
+   "short": "LC 339/2024",
+   "title": "Lei Complementar nº 339, de 05.12.2024 (ALTERA A LEI COMPLEMENTAR N.º 58, DE 31 DE MARÇO DE 2006.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc339.htm",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 9,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc339.htm",
+     "sha256": "becfaed74cc51b11d776f08d6869ac7cc147e03b1adce9b7b8b2014a089f74ed"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-341",
+   "short": "LC 341/2024",
+   "title": "Lei Complementar nº 341, de 11.12.2024",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc341.htm",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 9,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc341.htm",
+     "sha256": "eedca7163d4f6f1c793466c5338f402c7ebb6daa3d19f9431a4b776be561f7d1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-342",
+   "short": "LC 342/2024",
+   "title": "Lei Complementar nº 342, de 16.12.2024 (ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR ESTADUAL Nº72, DE 12 DE DEZEMBRO DE 2008, LEI ORGÂNICA E ESTATUTO DO MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc342.htm",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 14,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc342.htm",
+     "sha256": "9729e57017b6e43dde62bed0e04e6074efc002125d32500b535c0344892965a4"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-343",
+   "short": "LC 343/2024",
+   "title": "Lei Complementar nº 343, de 17.12.2024 (CRIA O QUADRO DE PESSOAL DA ESCOLA DE SAÚDE PÚBLICA DO ESTADO, E ALTERA DISPOSITIVO DA LEI COMPLEMENTAR N.º 270, DE 30 DE DEZEMBRO DE 2021.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc343.htm",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc343.htm",
+     "sha256": "2912bc3cebb9e90af6dd87e0883b0a287eaece01a5c77f2a0ebd82ee60080133"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-344",
+   "short": "LC 344/2024",
+   "title": "Lei Complementar nº 344, de 18.12.2024 (ALTERA AS LEIS COMPLEMENTARES N.º 31, DE 5 DE AGOSTO DE 2002, N.º 12, DE 23 DE JUNHO DE 1999, E N.º 227, DE 16 DE DEZEMBRO DE 2020.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc344.htm",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc344.htm",
+     "sha256": "79a915098c5c7352358f62157d09f3f65e5a9c2db070d2fbf0d0595fa2f1219a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-345",
+   "short": "LC 345/2024",
+   "title": "Lei Complementar nº 345, de 18.12.2024",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc345.htm",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc345.htm",
+     "sha256": "fd33e3015c978c4908dd21610ea4c42b365739e457db85d67140444c53f544f4"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-346",
+   "short": "LC 346/2024",
+   "title": "Lei Complementar nº 346, de 18.12.2024 (ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR ESTADUAL N.º 72, DE 12 DE DEZEMBRO DE 2008, LEI ORGÂNICA E ESTATUTO DO MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc346.htm",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 9,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc346.htm",
+     "sha256": "5053dbeb27992683168e527b716775c468026192e9995e7d18e4e92e0bfef997"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-347",
+   "short": "LC 347/2025",
+   "title": "Lei Complementar nº 347, de 05.02.2025",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc347.htm",
+   "versions": [
+    {
+     "from": "1960-02-05",
+     "units": 15,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc347.htm",
+     "sha256": "60f9a12665a440bd71bb0456e3f16e6c3c119fff782bf37ed2378002191b48b8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-348",
+   "short": "LC 348/2025",
+   "title": "Lei Complementar nº 348, de 05.02.2025",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc348.htm",
+   "versions": [
+    {
+     "from": "1960-02-05",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc348.htm",
+     "sha256": "96b2780101d3776cc926de0e2cb9f5418a469bc97fdd09fd4914050539056c6e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-349",
+   "short": "LC 349/2025",
+   "title": "Lei Complementar nº 349, de 14.02.2025",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc349.htm",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc349.htm",
+     "sha256": "7373a2afbbeebe1f5d21a2502624bf1f518790608ec3d9a3a4074d37c0b724f1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-350",
+   "short": "LC 350/2025",
+   "title": "Lei Complementar nº 350, de 17.03.2025 (ALTERA A LEI COMPLEMENTAR N.o 6, DE 28 DE ABRIL DE 1997.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc350.htm",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 7,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc350.htm",
+     "sha256": "bc88d19159bc11352610575a1cb14445015a3cfe85e45fbd549fd2114a02e04d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-351",
+   "short": "LC 351/2025",
+   "title": "Lei Complementar nº 351, de 02.05.2025 (ALTERA A LEI COMPLEMENTAR N.º 66, DE 7 DE JANEIRO DE 2008, QUE DISPÕE SOBRE O FUNDO ESTADUAL DE DESENVOLVIMENTO DA AGRICULTURA FAMILIAR - FEDAF.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc351.htm",
+   "versions": [
+    {
+     "from": "2025-05-02",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc351.htm",
+     "sha256": "9cc84ef8e3e36560c2794221194268f448a755c869665da5d3eb31659722b1ef"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-352",
+   "short": "LC 352/2025",
+   "title": "Lei Complementar nº 352, de 08.05.2025 (CONSOLIDA AS NORMAS DE INSCRIÇÃO NA DÍVIDA ATIVA DOS ÓRGÃOS E DAS ENTIDADES DA ADMINISTRAÇÃO DIRETA E INDIRETA.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc352.htm",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 9,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc352.htm",
+     "sha256": "b24043293913db86b7f787fcd81109d5f3d7b1f80ec78eee99598f51b13447fc"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-353",
+   "short": "LC 353/2025",
+   "title": "Lei Complementar nº 353, de 28.05.2025 (ALTERA A LEI COMPLEMENTAR Nº. 13, DE 20 DE JULHO DE 1999.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc353.htm",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 7,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc353.htm",
+     "sha256": "accad060d344217e439e3318aa9c29661a8ff68cad0b90af1a6b0c2a69a9f9e2"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-354",
+   "short": "LC 354/2025",
+   "title": "Lei Complementar nº 354, de 10.06.2025",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc354.htm",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc354.htm",
+     "sha256": "890b4d48353477656a3e4bd666b1a95cd2599148b8635f99e93a651c62824fe1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-355",
+   "short": "LC 355/2025",
+   "title": "Lei Complementar nº 355, de 18.06.2025 (ALTERA A LEI COMPLEMENTAR Nº. 13, DE 20 DE JULHO DE 1999.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc355.htm",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 9,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc355.htm",
+     "sha256": "5deb09b7f1a0de5258fe4baf4c95306bb1324726a6e3b6bb679f93e438cf99e0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-356",
+   "short": "LC 356/2025",
+   "title": "Lei Complementar nº 356, de 04.07.2025",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc356.htm",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc356.htm",
+     "sha256": "2558f7ecad24b684dbc9abb9d76de648761a16f9d8ec882f8846f0bb699f1d56"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-357",
+   "short": "LC 357/2025",
+   "title": "Lei Complementar nº 357, de 04.07.2025 (ALTERA A LEI COMPLEMENTAR N.º 6, DE 28 DE ABRIL DE 1997.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc357.htm",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc357.htm",
+     "sha256": "9ce91e73a4275356f68dcd436e926d76aedac721f59706b3c8fc4f7c6fb62bf1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-358",
+   "short": "LC 358/2025",
+   "title": "Lei Complementar nº 358, de 19.08.2025 (ALTERA O ANEXO II, A QUE SE REFERE A LEI COMPLEMENTAR N.º 169, DE 27 DE DEZEMBRO DE 2016.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc358.htm",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc358.htm",
+     "sha256": "f8fba68a44293d63ac17d8e9a6d22ebd564b149fcb83bbc87d0c0006ad20574c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-359",
+   "short": "LC 359/2025",
+   "title": "Lei Complementar nº 359, de 05.09.2025",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc359.htm",
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc359.htm",
+     "sha256": "8dcf5a46566de2c4db351788abb0946a0a371bcd631601acf82851856053ffe3"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-360",
+   "short": "LC 360/2025",
+   "title": "Lei Complementar nº 360, de 18.09.2025",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc360.htm",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc360.htm",
+     "sha256": "336324cff630aa4b776077942e6236a35a0b030d8b1a7e0622858e1f95116a9d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-361",
+   "short": "LC 361/2025",
+   "title": "Lei Complementar nº 361, de 18.09.2025 (INSTITUI A GRATIFICAÇÃO POR ENCARGO ESPECIAL DE RADIODIFUSÃO CULTURAL E EDUCATIVA - GEERCE, NO ÂMBITO DA FUNDAÇÃO DE TELEDUCAÇÃO DO ESTADO DO CEARÁ - FUNTELC.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc361.htm",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc361.htm",
+     "sha256": "1538232adcdb2fa13654aec428339a88df4c7995b461955e3139a67faffe7597"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-362",
+   "short": "LC 362/2025",
+   "title": "Lei Complementar nº 362, de 09.10.2025 (ALTERA A LEI COMPLEMENTAR ESTADUAL N.º 72, DE 12 DE DEZEMBRO DE 2008, LEI ORGÂNICA E ESTATUTO DO MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc362.htm",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 9,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc362.htm",
+     "sha256": "6bf4e5227f9ab8636b1304fcd38c7e399f1fad1e6f0dea910708eca41dea0702"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-363",
+   "short": "LC 363/2025",
+   "title": "Lei Complementar nº 363, de 17.10.2025 (ALTERA A LEI COMPLEMENTAR N.º 130, DE 6 DE JANEIRO DE 2014, QUE INSTITUI O CÓDIGO DE RELACIONAMENTO COM O CONTRIBUINTE DO ESTADO DO CEARÁ.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc363.htm",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc363.htm",
+     "sha256": "3164875231ad1b77de6d1af07a5b97fec99278840e081f125ce4f0e9386bf5c2"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-364",
+   "short": "LC 364/2025",
+   "title": "Lei Complementar nº 364, de 17.10.2025",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc364.htm",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 15,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc364.htm",
+     "sha256": "130a361709dd81418695bda8ea56f47814bf80e74762491e181f13f82b7205d6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-365",
+   "short": "LC 365/2025",
+   "title": "Lei Complementar nº 365, de 17.11.2025",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc365.htm",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc365.htm",
+     "sha256": "06176b2818e1b221acf11418fb6583ea913682b1c4bebc1422a0a4644ed93d04"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-366",
+   "short": "LC 366/2025",
+   "title": "Lei Complementar nº 366, de 27.11.2025 (DISPÕE SOBRE O FUNDO DE INVESTIMENTOS DE MICROCRÉDITO PRODUTIVO DO CEARÁ - FIMPCE E O PROGRAMA MICROCRÉDITO PRODUTIVO DO CEARÁ.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc366.htm",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 12,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc366.htm",
+     "sha256": "ceb8842ad7f2144a05f390f0b1aab4f9c6b4644f780644c01fc7fc16f4e81de2"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-367",
+   "short": "LC 367/2025",
+   "title": "Lei Complementar nº 367, de 12.12.2025 (ESTABELECE CRITÉRIOS OBJETIVOS PARA A REVISÃO DA SEGREGAÇÃO DA MASSA DE BENEFICIÁRIOS DO SISTEMA ÚNICO DE PREVIDÊNCIA SOCIAL DO ESTADO DO CEARÁ - SUPSEC.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc367.htm",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc367.htm",
+     "sha256": "c08e2e248f22cd71bdb0367a9cf5ee47c352cf2b6e8b4495c4d82b04ef213584"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-368",
+   "short": "LC 368/2025",
+   "title": "Lei Complementar nº 368, de 15.12.2025",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc368.htm",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc368.htm",
+     "sha256": "7856b0dc834404b82627242082261c8229731064a4e89ebf6a4318cffd9e45c6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-369",
+   "short": "LC 369/2025",
+   "title": "Lei Complementar nº 369, de 15.12.2025",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc369.htm",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc369.htm",
+     "sha256": "c94a6f73aa87943b5270c62f964b038ce6540ae66a28807c5cac744ec833b26c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-370",
+   "short": "LC 370/2025",
+   "title": "Lei Complementar nº 370, de 15.12.2025 (ALTERA A LEI COMPLEMENTAR N.º 70, DE 10 DE NOVEMBRO DE 2008.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc370.htm",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc370.htm",
+     "sha256": "3b492cd673babf6030530875d83a07c3403a0bdcf7421056de96b4586782db33"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-371",
+   "short": "LC 371/2025",
+   "title": "Lei Complementar nº 371, de 16.12.2025",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc371.htm",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 155,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc371.htm",
+     "sha256": "20a32dd527a09a3b1301862a31ecae6fe2681b7a278cae8d6c90d5f7f744bcd8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-372",
+   "short": "LC 372/2025",
+   "title": "Lei Complementar nº 372, de 19.12.2025 (APROVA O PLANO DE CARGOS E CARREIRAS DO GRUPO OCUPACIONAL ATIVIDADES DE GESTÃO CULTURAL - AGC DA SECRETARIA DA CULTURA DO ESTADO.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc372.htm",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 32,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc372.htm",
+     "sha256": "79ee04c149fb7e93f05676f5d9ca9fa1a7d4638bfb7afd38b6c9f8890e819672"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-373",
+   "short": "LC 373/2026",
+   "title": "Lei Complementar nº 373, de 25.02.2026",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc373.htm",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc373.htm",
+     "sha256": "351899978e66549869a713299625be3b52205763641025203d085239851d6b79"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-374",
+   "short": "LC 374/2026",
+   "title": "Lei Complementar nº 374, de 09.03.2026",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc374.htm",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc374.htm",
+     "sha256": "36392aadcd0189adcabde65a41ac82a523809b5754cb93fbdcecf66183c0d6d4"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-375",
+   "short": "LC 375/2026",
+   "title": "Lei Complementar nº 375, de 09.03.2026",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc375.htm",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc375.htm",
+     "sha256": "90ba6fb45acd5d7c9c1c30340f00fa5ea104cb10f6e0473898fa6529c3ed0114"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-376",
+   "short": "LC 376/2026",
+   "title": "Lei Complementar nº 376, de 26.03.2026 (ALTERA A LEI COMPLEMENTAR N.º 296, DE 16 DE DEZEMBRO DE 2022, QUE INSTITUI O NOVO MARCO LEGAL DA GESTÃO DE ATIVOS IMOBILIÁRIOS DO ESTADO DO CEARÁ.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc376.htm",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 10,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc376.htm",
+     "sha256": "ce41a7d4a5e145971e8db108c5f4ed595b36f5076f2143ec0ba54aa70e69adb7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-377",
+   "short": "LC 377/2026",
+   "title": "Lei Complementar nº 377, de 26.03.2026",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc377.htm",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc377.htm",
+     "sha256": "32ed9245bda2a18720ef5b68c9d7620a0b01624f4c0f05ab4486dff39de56154"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-378",
+   "short": "LC 378/2026",
+   "title": "Lei Complementar nº 378, de 30.03.2026",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc378.htm",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc378.htm",
+     "sha256": "c4ac6cb582e904ecb1da50e1ed66c25b20d1ab22615a9fc549239965422f02ff"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-379",
+   "short": "LC 379/2026",
+   "title": "Lei Complementar nº 379, de 30.03.2026",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc379.htm",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc379.htm",
+     "sha256": "585976ad4b239b82004fc7d4bbd173ab388bb24445546a6841c4d93634d11859"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-380",
+   "short": "LC 380/2026",
+   "title": "Lei Complementar nº 380, de 01.04.2026",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc380.htm",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 5,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc380.htm",
+     "sha256": "7f3daa68baf07aa90f9f6cd5167d6d00da99ab454ad05d8d6d95e5e151b8ca0f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-381",
+   "short": "LC 381/2026",
+   "title": "Lei Complementar nº 381, de 01.04.2026",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc381.htm",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc381.htm",
+     "sha256": "e72ab870f7b20b70e1ac536c0f77a06a17ae9f6985c665fcc56c69c0988b9688"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-382",
+   "short": "LC 382/2026",
+   "title": "Lei Complementar nº 382, de 01.04.2026 (ALTERA A LEI COMPLEMENTAR N.º 270, DE 30 DE DEZEMBRO DE 2021, QUE CRIA O GRUPO OCUPACIONAL ATIVIDADES TÉCNICO-ADMINISTRATIVAS DA SAÚDE - ADS.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc382.htm",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc382.htm",
+     "sha256": "1adca5fd8bbc4b56fd0b9c81bdbdfd76f5af1ae8f49fe168f5df15e6097748a7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-383",
+   "short": "LC 383/2026",
+   "title": "Lei Complementar nº 383, de 01.04.2026 (ALTERA LEI N.º 15.186, DE 28 DE JUNHO DE 2012, QUE CRIA A CARREIRA E DISPÕE SOBRE OS CARGOS INTEGRANTES DO QUADRO DA SECRETARIA DAS CIDADES.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc383.htm",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc383.htm",
+     "sha256": "40a7a9d234c30034fdfff01d5c9b1acf8cee0de810d4599d7d63abc21db3b95d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-384",
+   "short": "LC 384/2026",
+   "title": "Lei Complementar nº 384, de 01.04.2026 (ALTERA A LEI COMPLEMENTAR N.º 262, DE 10 DE DEZEMBRO DE 2021, QUE MODIFICA AS LEIS N.º 13.658 E N.º 13.659, AMBAS DE 20 DE SETEMBRO DE 2005.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc384.htm",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc384.htm",
+     "sha256": "831c398c6286c4316e186bdcd7386b5295eec48a7ed6b172c10782e549f5cc7a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-385",
+   "short": "LC 385/2026",
+   "title": "Lei Complementar nº 385, de 01.04.2026",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc385.htm",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc385.htm",
+     "sha256": "0549889b5e8e8463d49a73341ad2cf32e5886d37fd70553a68354a31665b9447"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-386",
+   "short": "LC 386/2026",
+   "title": "Lei Complementar nº 386, de 01.04.2026 (AMPLIA AS DISPOSIÇÕES DA LEI N.º 16.213, DE 17 DE ABRIL DE 2017, AOS SERVIDORES DA SUPERINTENDÊNCIA ESTADUAL DO MEIO AMBIENTE - SEMACE.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc386.htm",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 7,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc386.htm",
+     "sha256": "02d3592d19371bf69589156dcda5af9ec44b1e33f7c06c41cb59f897ab5498aa"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-388",
+   "short": "LC 388/2026",
+   "title": "Lei Complementar nº 388, de 07.05.2026",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc388.htm",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 4,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc388.htm",
+     "sha256": "00b174f04e9dfff780b0ceef1a7365fb574bdf75e43b468144b2bf8dd8457865"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-389",
+   "short": "LC 389/2026",
+   "title": "Lei Complementar nº 389, de 26.05.2026 (ALTERA A LEI COMPLEMENTAR N.º 229, DE 21 DE DEZEMBRO DE 2020, PARA DISPOR SOBRE O SERVIÇO COMPLEMENTAR DE TRANSPORTE INTERMUNICIPAL DE PASSAGEIROS.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc389.htm",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc389.htm",
+     "sha256": "cd576828dc4d8d81f6b6597611c0856ee153101bc9f7415784a6b9a9bc9ff2cc"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-390",
+   "short": "LC 390/2026",
+   "title": "Lei Complementar nº 390, de 15.06.2026",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc390.htm",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 11,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc390.htm",
+     "sha256": "3540fe1f4ebaf0311e36fbaa644baf65f4a6d5312259b438c4201e788e8db1f2"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-391",
+   "short": "LC 391/2026",
+   "title": "Lei Complementar nº 391, de 07.07.2026 (ESTABELECE CRITÉRIOS OBJETIVOS PARA A REVISÃO DA SEGREGAÇÃO DA MASSA DE BENEFICIÁRIOS DO SISTEMA ÚNICO DE PREVIDÊNCIA SOCIAL DO ESTADO DO CEARÁ - SUPSEC.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc391.htm",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 6,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc391.htm",
+     "sha256": "da514b6bbcbdfff61bfcb1a04fcbee94d90ec3c3629fc9051b0285f6fac9d498"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-392",
+   "short": "LC 392/2026",
+   "title": "Lei Complementar nº 392, de 16.07.2026 (ALTERA A LEI COMPLEMENTAR N.º 06, DE 28 DE ABRIL DE 1997.)",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc392.htm",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 22,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc392.htm",
+     "sha256": "2729ffcf6c627365a93baaccb1a394a2785f82e85fb6e404275bd14ee3234e9e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-393",
+   "short": "LC 393/2026",
+   "title": "Lei Complementar nº 393, de 16.07.2026",
+   "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc393.htm",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 3,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc393.htm",
+     "sha256": "8c0699e07c46e833144a3ff0b26d00e47309aa7595631f48f3b21bd652d7a656"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+  "path": "br-ce",
+  "code": "BR-CE",
+  "name": "Ceará",
+  "level": "state",
+  "repo": "https://github.com/lexifina/brazil-ceara-law",
+  "build": "built: the Leis Complementares of Ceará, from the ALECE ementário"
+}
