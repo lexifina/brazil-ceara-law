@@ -3088,6 +3088,12 @@
    "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc268.htm",
    "versions": [
     {
+     "from": "2022-01-01",
+     "units": 12,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc268.htm",
+     "sha256": "212d2ea235d879476f40084f6395c3bc9250232b463652576908148b5d597574"
+    },
+    {
      "from": "2026-04-01",
      "units": 12,
      "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc268.htm",

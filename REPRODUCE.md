@@ -15,6 +15,8 @@ This file is written by the build on 2026-11-05, the day the source data was ret
 | Assembleia Legislativa do Estado do Ceará (ALECE): ementário de Leis Complementares, the page of each act | <https://www2.al.ce.gov.br/legislativo/ementario/lc.htm> | 2026-10-30 | Texts: Assembleia Legislativa do Estado do Ceará (ALECE), ementário de Leis Complementares, www2.al.ce.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text ("O texto desta Lei não substitui o publicado no Diário Oficial"): only the Diário Oficial do Estado is authoritative. |
 | ALECE: LC 309/2023 | <https://www2.al.ce.gov.br/legislativo/ementario/lc309.htm> | 2026-11-05 | Texts: Assembleia Legislativa do Estado do Ceará (ALECE), ementário de Leis Complementares, www2.al.ce.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text ("O texto desta Lei não substitui o publicado no Diário Oficial"): only the Diário Oficial do Estado is authoritative. |
 | ALECE: LC 349/2025 | <https://www2.al.ce.gov.br/legislativo/ementario/lc349.htm> | 2026-11-05 | Texts: Assembleia Legislativa do Estado do Ceará (ALECE), ementário de Leis Complementares, www2.al.ce.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text ("O texto desta Lei não substitui o publicado no Diário Oficial"): only the Diário Oficial do Estado is authoritative. |
+| ALECE: Lei Complementar 268/2021 | <https://www2.al.ce.gov.br/legislativo/ementario/lc268.htm> | 2026-11-05 | Texts: Assembleia Legislativa do Estado do Ceará (ALECE), ementário de Leis Complementares, www2.al.ce.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text ("O texto desta Lei não substitui o publicado no Diário Oficial"): only the Diário Oficial do Estado is authoritative. |
+| ALECE: Lei Complementar 380/2026 | <https://www2.al.ce.gov.br/legislativo/ementario/lc380.htm> | 2026-11-05 | Texts: Assembleia Legislativa do Estado do Ceará (ALECE), ementário de Leis Complementares, www2.al.ce.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text ("O texto desta Lei não substitui o publicado no Diário Oficial"): only the Diário Oficial do Estado is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -242,7 +244,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lc-2021-265` | Lei Complementar nº 265, de 10.12.2021 | 1 | 2021-12-10 to 2021-12-10 |
 | `lc-2021-266` | Lei Complementar nº 266, de 10.12.2021 (ALTERA DISPOSITIVOS DA LEI N.º 13.666, DE 20 DE SETEMBRO DE 2005.) | 1 | 2021-12-10 to 2021-12-10 |
 | `lc-2021-267` | Lei Complementar nº 267, de 10.12.2021 (CRIA GRATIFICAÇÕES PARA OS SERVIDORES DO QUADRO DE PESSOAL DO INSTITUTO DO DESENVOLVIMENTO AGRÁRIO DO CEARÁ - IDACE.) | 1 | 2021-12-10 to 2021-12-10 |
-| `lc-2021-268` | Lei Complementar nº 268, de 10.12.2021 (CRIA GRATIFICAÇÕES PARA OS SERVIDORES DO QUADRO DE PESSOAL DO INSTITUTO DE SAÚDE DOS SERVIDORES DO ESTADO DO CEARÁ - ISSEC.) | 1 | 2026-04-01 to 2026-04-01 |
+| `lc-2021-268` | Lei Complementar nº 268, de 10.12.2021 (CRIA GRATIFICAÇÕES PARA OS SERVIDORES DO QUADRO DE PESSOAL DO INSTITUTO DE SAÚDE DOS SERVIDORES DO ESTADO DO CEARÁ - ISSEC.) | 2 | 2022-01-01 to 2026-04-01 |
 | `lc-2021-269` | Lei Complementar nº 269, de 10.12.2021 | 1 | 2024-12-11 to 2024-12-11 |
 | `lc-2021-273` | Lei Complementar nº 273, de 10.12.2021 | 1 | 2021-12-10 to 2021-12-10 |
 | `lc-2021-274` | Lei Complementar nº 274, de 10.12.2021 | 1 | 2021-12-10 to 2021-12-10 |
@@ -368,7 +370,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lc-2026-392` | Lei Complementar nº 392, de 16.07.2026 (ALTERA A LEI COMPLEMENTAR N.º 06, DE 28 DE ABRIL DE 1997.) | 1 | 2026-07-16 to 2026-07-16 |
 | `lc-2026-393` | Lei Complementar nº 393, de 16.07.2026 | 1 | 2026-07-16 to 2026-07-16 |
 
-The build made 347 commits:
+The build made 349 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -392,7 +394,7 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `eba88415ba43b8092f91f5a573308f26d5fa2c792e71097c64ffef406d10629e` (4029786 bytes).
+- Corpus: sha256 `4d93760ebf4471ddc60daa4d592112164b428761aae90a29febc581cbc454bbe` (4047987 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -400,7 +402,7 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 Not yet run for this build.
 
-A second build from the same corpus into an empty folder gave identical hashes for all 346 history commits and 627 tags (history tip `2da6ec736d11aeb0dbe7a8eb9c93cf042c150eef`).
+A second build from the same corpus into an empty folder gave identical hashes for all 347 history commits and 629 tags (history tip `e9871228f696b62e8dd5dc6bd90b92624b0c7688`).
 
 ## Decisions made by hand
 
@@ -429,6 +431,9 @@ A second build from the same corpus into an empty folder gave identical hashes f
 - The 2023 version restores only article 35 paragraph 5 from ALECE struck text; all other units equal the unchanged published current units.
 - LC 349/2025 was published on 2025-02-14; articles 1 and 2 repeal article 35 paragraph 5 effective that day.
 - The current 2025-02-14 text is byte-identical to the unchanged published corpus.
+- LC 268/2021 article 11 gives 2022-01-01 as commencement; the enacted wording of article 3 incisos I and II is preserved in strike-through on ALECE's LC 268 page.
+- LC 380/2026 article 1 changes only article 3 incisos I and II; article 3 makes the law effective on its 2026-04-01 publication day and delays only financial effects until 2026-06-01.
+- All units except article 3 in the 2022 version equal the unchanged published current units; the 2026 version's units are byte-identical to that published version.
 
 ## What AI did and did not do
 
@@ -447,3 +452,4 @@ Model use at data-build time:
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the ALECE pages.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the ALECE pages.
 - A model selected the act and reviewed clauses; legal wording comes only from ALECE source bytes.
+- A model selected and reviewed the act. Both restored lines were extracted from ALECE's struck HTML; no model output is legal text.
