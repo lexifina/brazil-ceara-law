@@ -400,7 +400,7 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 ## Checks
 
-Not yet run for this build.
+347 versions of 345 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
 A second build from the same corpus into an empty folder gave identical hashes for all 347 history commits and 629 tags (history tip `e9871228f696b62e8dd5dc6bd90b92624b0c7688`).
 
