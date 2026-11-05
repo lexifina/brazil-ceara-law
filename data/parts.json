@@ -379,6 +379,12 @@
     "lc-2026-393"
    ],
    "sha256": "2a572f77b1240415e5d7ccfca5ea49bc28120d5cbfbe0c1833b8cf3df9d0224e"
+  },
+  "80-depth-d-lc309.json": {
+   "acts": [
+    "lc-2023-309"
+   ],
+   "sha256": "4d8d158991af63c80f59937d93e62bb24ebd90198281ad817bbfb98fd62d8525"
   }
  },
  "schema": 1

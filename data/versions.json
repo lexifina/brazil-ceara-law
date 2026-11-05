@@ -3676,6 +3676,12 @@
    "url": "https://www2.al.ce.gov.br/legislativo/ementario/lc309.htm",
    "versions": [
     {
+     "from": "2023-07-11",
+     "units": 49,
+     "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc309.htm",
+     "sha256": "df3589a9864a48a2be03c556848be6a80f17eea671a6d8ef500f7153e5fa153f"
+    },
+    {
      "from": "2025-02-14",
      "units": 49,
      "source_url": "https://www2.al.ce.gov.br/legislativo/ementario/lc309.htm",

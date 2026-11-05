@@ -1,6 +1,6 @@
 # Lei Complementar nº 309, de 10.07.2023
 
-LC 309/2023 · 1 versions, from 2025-02-14 (latest in force: 2025-02-14) · <https://www2.al.ce.gov.br/legislativo/ementario/lc309.htm>
+LC 309/2023 · 2 versions, from 2023-07-11 (latest in force: 2025-02-14) · <https://www2.al.ce.gov.br/legislativo/ementario/lc309.htm>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -39,7 +39,7 @@ LC 309/2023 · 1 versions, from 2025-02-14 (latest in force: 2025-02-14) · <htt
 | Art. 32 | [art-0032.md](art-0032.md) | 0 |  |
 | Art. 33 | [art-0033.md](art-0033.md) | 0 |  |
 | Art. 34 | [art-0034.md](art-0034.md) | 0 |  |
-| Art. 35 | [art-0035.md](art-0035.md) | 0 |  |
+| Art. 35 | [art-0035.md](art-0035.md) | 1 | 2025-02-14 |
 | Art. 36 | [art-0036.md](art-0036.md) | 0 |  |
 | Art. 37 | [art-0037.md](art-0037.md) | 0 |  |
 | Art. 38 | [art-0038.md](art-0038.md) | 0 |  |

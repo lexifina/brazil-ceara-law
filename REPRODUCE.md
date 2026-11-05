@@ -13,6 +13,8 @@ This file is written by the build on 2026-11-05, the day the source data was ret
 | Assembleia Legislativa do Estado do Ceará (ALECE): ementário de Leis Complementares, the page of each act | <https://www2.al.ce.gov.br/legislativo/ementario/lc.htm> | 2026-10-30 | Texts: Assembleia Legislativa do Estado do Ceará (ALECE), ementário de Leis Complementares, www2.al.ce.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text ("O texto desta Lei não substitui o publicado no Diário Oficial"): only the Diário Oficial do Estado is authoritative. |
 | Assembleia Legislativa do Estado do Ceará (ALECE): ementário de Leis Complementares, the page of each act | <https://www2.al.ce.gov.br/legislativo/ementario/lc.htm> | 2026-10-30 | Texts: Assembleia Legislativa do Estado do Ceará (ALECE), ementário de Leis Complementares, www2.al.ce.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text ("O texto desta Lei não substitui o publicado no Diário Oficial"): only the Diário Oficial do Estado is authoritative. |
 | Assembleia Legislativa do Estado do Ceará (ALECE): ementário de Leis Complementares, the page of each act | <https://www2.al.ce.gov.br/legislativo/ementario/lc.htm> | 2026-10-30 | Texts: Assembleia Legislativa do Estado do Ceará (ALECE), ementário de Leis Complementares, www2.al.ce.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text ("O texto desta Lei não substitui o publicado no Diário Oficial"): only the Diário Oficial do Estado is authoritative. |
+| ALECE: LC 309/2023 | <https://www2.al.ce.gov.br/legislativo/ementario/lc309.htm> | 2026-11-05 | Texts: Assembleia Legislativa do Estado do Ceará (ALECE), ementário de Leis Complementares, www2.al.ce.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text ("O texto desta Lei não substitui o publicado no Diário Oficial"): only the Diário Oficial do Estado is authoritative. |
+| ALECE: LC 349/2025 | <https://www2.al.ce.gov.br/legislativo/ementario/lc349.htm> | 2026-11-05 | Texts: Assembleia Legislativa do Estado do Ceará (ALECE), ementário de Leis Complementares, www2.al.ce.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text ("O texto desta Lei não substitui o publicado no Diário Oficial"): only the Diário Oficial do Estado is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -282,7 +284,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lc-2023-306` | Lei Complementar nº 306, de 15.06.2023 (ALTERA DISPOSITIVOS NA LEI COMPLEMENTAR ESTADUAL N.º 06, DE 28 DE ABRIL DE 1997.) | 1 | 2024-06-04 to 2024-06-04 |
 | `lc-2023-307` | Lei Complementar nº 307, de 10.07.2023 | 1 | 2023-07-11 to 2023-07-11 |
 | `lc-2023-308` | Lei Complementar nº 308, de 10.07.2023 | 1 | 2023-07-11 to 2023-07-11 |
-| `lc-2023-309` | Lei Complementar nº 309, de 10.07.2023 | 1 | 2025-02-14 to 2025-02-14 |
+| `lc-2023-309` | Lei Complementar nº 309, de 10.07.2023 | 2 | 2023-07-11 to 2025-02-14 |
 | `lc-2023-310` | Lei Complementar nº 310, de 20.07.2023 | 1 | 2023-07-20 to 2023-07-20 |
 | `lc-2023-311` | Lei Complementar nº 311, de 20.07.2023 (ALTERA A LEI COMPLEMENTAR N.º 184, DE 21 DE NOVEMBRO DE 2018, QUE CRIA A FUNDAÇÃO DE PREVIDÊNCIA SOCIAL DO ESTADO DO CEARÁ - CEARAPREV.) | 1 | 2023-07-20 to 2023-07-20 |
 | `lc-2023-312` | Lei Complementar nº 312, de 01.09.2023 (EXTINGUE O FUNDO DE SEGURANÇA INSTITUCIONAL E INTELIGÊNCIA DO MINISTÉRIO PÚBLICO - FUNSIT.) | 1 | 2023-09-04 to 2023-09-04 |
@@ -366,7 +368,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lc-2026-392` | Lei Complementar nº 392, de 16.07.2026 (ALTERA A LEI COMPLEMENTAR N.º 06, DE 28 DE ABRIL DE 1997.) | 1 | 2026-07-16 to 2026-07-16 |
 | `lc-2026-393` | Lei Complementar nº 393, de 16.07.2026 | 1 | 2026-07-16 to 2026-07-16 |
 
-The build made 345 commits:
+The build made 347 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -390,15 +392,15 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `eee62d81b7129d8f39321a770e5ef864fd1581271200b52d176ec9604903d495` (3913360 bytes).
+- Corpus: sha256 `eba88415ba43b8092f91f5a573308f26d5fa2c792e71097c64ffef406d10629e` (4029786 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-345 versions of 345 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 346 history commits and 627 tags (history tip `2da6ec736d11aeb0dbe7a8eb9c93cf042c150eef`).
 
 ## Decisions made by hand
 
@@ -423,6 +425,10 @@ No second build of this corpus has been compared yet.
 - An act ALECE shows no alteration for (no alteration note, nothing struck through) is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado as the page states it ("D.O."). An altered act is given only as its text in force, credited to ALECE as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one. An altered act whose notes cite no date is left out.
 - The text in force leaves out what the page strikes through (earlier wordings) and ALECE's alteration notes in parentheses ("(Nova redação dada pela ...)", "(Acrescido pela ...)", "(Revogado pela ...)", "(Vide ...)"); "Vide" and "Vigência" notes do not date a version. The page's "VOLTAR" link and its notice "O texto desta Lei não substitui o publicado no Diário Oficial." are left out. Two-digit years in the notes (17.01.01) are read as 19xx above 40 and 20xx otherwise.
 - One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures, annexes) stays with the last article. Tables are one line per row, cells separated by " | "; images are left out.
+- LC 309/2023 was published on 2023-07-11 and article 47 makes it effective on publication.
+- The 2023 version restores only article 35 paragraph 5 from ALECE struck text; all other units equal the unchanged published current units.
+- LC 349/2025 was published on 2025-02-14; articles 1 and 2 repeal article 35 paragraph 5 effective that day.
+- The current 2025-02-14 text is byte-identical to the unchanged published corpus.
 
 ## What AI did and did not do
 
@@ -440,3 +446,4 @@ Model use at data-build time:
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the ALECE pages.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the ALECE pages.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the ALECE pages.
+- A model selected the act and reviewed clauses; legal wording comes only from ALECE source bytes.
