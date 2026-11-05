@@ -8,9 +8,9 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 
 | Folder | Act | Versions |
 | --- | --- | ---: |
-| `lc-<year>-<number>/` | the Leis Complementares on the ALECE ementário | 1 each |
+| `lc-<year>-<number>/` | the Leis Complementares on the ALECE ementário | 1 each, except LC 309/2023 (2) |
 
-**Partial:** the Constituição Estadual is not in yet (ALECE publishes it as a typeset PDF book), nor ordinary Leis; the history may still gain earlier commits. An act ALECE shows no alteration for is given **as enacted**, credited to the act itself. An altered act is given **only as its text in force**, credited to ALECE as the oldest version available: the wordings in between are not reconstructed yet, so no earlier version is shown rather than a wrong one.
+**Partial:** the Constituição Estadual is not in yet (ALECE publishes it as a typeset PDF book), nor ordinary Leis; the history may still gain earlier commits. An act ALECE shows no alteration for is given **as enacted**, credited to the act itself. Most altered acts are given only as their text in force, credited to ALECE as the oldest version available. LC 309/2023 also has its enacted version, restored from wording ALECE preserves in struck text, followed by the repeal effective on 14 February 2025.
 
 ## Source
 
@@ -18,7 +18,7 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 
 ## Dates
 
-An unaltered act is dated by its publication in the Diário Oficial do Estado as its page states it (Ceará laws almost always take effect on publication). An altered act's text in force is dated by the latest date among the alterations ALECE's notes cite ("(Nova redação dada pela ...)", "(Acrescido pela ...)", "(Revogado pela ...)"); "Vide" notes do not date a version. Commits are at noon in Fortaleza.
+An unaltered act is dated by its publication in the Diário Oficial do Estado as its page states it (Ceará laws almost always take effect on publication). Most altered acts' current text is dated by the latest date among ALECE's alteration notes ("(Nova redação dada pela ...)", "(Acrescido pela ...)", "(Revogado pela ...)"); "Vide" notes do not date a version. LC 309/2023 starts on its stated Diário Oficial publication day, 11 July 2023. LC 349/2025 repeals its Article 35 paragraph 5 on 14 February 2025, its stated publication and commencement day. Commits are at noon in Fortaleza.
 
 ## How it is built
 
@@ -36,7 +36,7 @@ The author of each commit is the law that made the text, or, for a consolidated 
 
 ## Limits
 
-Not a complete history: an altered act starts at its text in force. Of the 374 Lei Complementar pages the ementário links, 345 are in: 8 answered "not found", 12 carry no recognisable heading (number and date), 7 are altered with notes that cite no date, and 2 are a duplicate page or an empty one. The text is not the official version: only the Diário Oficial do Estado is authoritative. Text after the last article (place, date, signatures, annexes) stays in the last article's file.
+Not a complete history: most altered acts start at their text in force; LC 309/2023 has a restored enacted version. Of the 374 Lei Complementar pages the ementário links, 345 are in: 8 answered "not found", 12 carry no recognisable heading (number and date), 7 are altered with notes that cite no date, and 2 are a duplicate page or an empty one. The text is not the official version: only the Diário Oficial do Estado is authoritative. Text after the last article (place, date, signatures, annexes) stays in the last article's file.
 
 ## Licence
 
